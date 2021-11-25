@@ -14,5 +14,5 @@ status-website:
   cname: upptime.solidops.cloud
   logoUrl: https://solidops.io/wp-content/themes/solidops/images/logo-header.png
   name: Solidops.io upptime
-  introTitle: "**Solidops.io upptime** Esté é um monitor de saúde de aplicações web solidops.io
-  introMessage: Esta é uma página de status de aplicações web e apis ** em tempo real **. Issues são registradas em downtimes.
+  introTitle: "**Solidops.io upptime** Esté é um monitor de saúde de aplicações web solidops.io"
+  introMessage: "Esta é uma página de status de aplicações web e apis ** em tempo real **. Issues são registradas em downtimes."
