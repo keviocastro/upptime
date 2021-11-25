@@ -4,18 +4,20 @@
     "url": "https://avus.com.br",
     "icon": "https://favicons.githubusercontent.com/avus.com.br",
     "slug": "avus-konecty",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 6246,
     "timeDay": 6246,
     "timeWeek": 6246,
     "timeMonth": 6246,
     "timeYear": 6246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-25": 0
+    }
   },
   {
     "name": "Foxter site (konecty)",
