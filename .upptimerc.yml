@@ -1,4 +1,3 @@
-# Change these first
 owner: keviocastro
 repo: upptime
 
@@ -8,20 +7,12 @@ sites:
   - name: Foxter site (konecty)
     url: https://www.foxterciaimobiliaria.com.br/
 
+assignees:
+  - keviocastro
+
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: upptime.solidops.cloud
-#   baseUrl: /your-repo-name
   logoUrl: https://solidops.io/wp-content/themes/solidops/images/logo-header.png
   name: Solidops.io upptime
   introTitle: "**Solidops.io upptime** Esté é um monitor de saúde de aplicações web solidops.io
   introMessage: Esta é uma página de status de aplicações web e apis ** em tempo real **. Issues são registradas em downtimes.
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
