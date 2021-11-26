@@ -6,24 +6,24 @@ sites:
     url: https://avus.com.br
   - name: FOXTIE (kty)
     url: https://www.foxterciaimobiliaria.com.br
-  - name: FOXINT
+  - name: FOXINT (kty)
     url: https://foxter-integrations.konecty.com
-  - name: FOXINT
+  - name: FOXINT (kty)
     url: https://foxter-integrations.konecty.com
-  - name: FOXCAMPIN
+  - name: FOXCAMPIN (kty)
     url: https://foxter-activecampaign.konecty.com
-  - name: FOXFLOWV2
+  - name: FOXFLOWV2 (kty)
     url: https://foxter-flows-v2.konecty.com
-  - name: FOXMAILGUN
+  - name: FOXMAILGUN (kty)
     url: https://foxter-mailgun.konecty.com
-  - name: FOXPUSH
+  - name: FOXPUSH (kty)
     url: https://foxter-push.konecty.com
-  - name: FOXINTEGR
+  - name: FOXINTEGR (kty)
     url: https://foxter-integrations.konecty.com
-  - name: FOXDOWN
+  - name: FOXDOWN (kty)
     url: https://foxter-downloads.konecty.com
-  - name: FOXSOLINK
-    url: https://sociallink.konecty.com
+  - name: FOXSOLINK (kty)
+    url: facebook?hub.verify_token=$KONECTY_FACEBOOK_TOKEN
 
 assignees:
   - keviocastro
