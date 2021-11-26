@@ -23,7 +23,7 @@ sites:
   - name: FOXDOWN (kty)
     url: https://foxter-downloads.konecty.com
   - name: FOXSOLINK (kty)
-    url: facebook?hub.verify_token=$KONECTY_FACEBOOK_TOKEN
+    url: htts://sociallink.konecty.com/facebook?hub.verify_token=$KTY_FACE_TOKEN
 
 assignees:
   - keviocastro
