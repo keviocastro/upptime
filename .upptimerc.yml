@@ -2,12 +2,10 @@ owner: keviocastro
 repo: upptime
 
 sites:
-  - name: Avus (konecty)
+  - name: AUS (kty)
     url: https://avus.com.br
-  - name: Foxter site (konecty)
+  - name: FOXTIE (kty)
     url: https://www.foxterciaimobiliaria.com.br
-  - name: Avus (konecty)
-    url: https://avus.com.br
 
 assignees:
   - keviocastro
