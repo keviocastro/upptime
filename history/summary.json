@@ -4,19 +4,19 @@
     "url": "https://avus.com.br",
     "icon": "https://favicons.githubusercontent.com/avus.com.br",
     "slug": "aus-kty",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 6284,
-    "timeDay": 6284,
-    "timeWeek": 6284,
-    "timeMonth": 6284,
-    "timeYear": 6284,
+    "status": "up",
+    "uptime": "98.05%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "98.05%",
+    "uptimeYear": "98.05%",
+    "time": 6274,
+    "timeDay": 6274,
+    "timeWeek": 6274,
+    "timeMonth": 6274,
+    "timeYear": 6274,
     "dailyMinutesDown": {
-      "2021-11-27": 0
+      "2021-11-27": 20
     }
   },
   {
