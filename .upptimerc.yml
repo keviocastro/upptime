@@ -2,28 +2,77 @@ owner: keviocastro
 repo: upptime
 
 sites:
-  - name: AUS (kty)
-    url: https://avus.com.br
-  - name: FOXTIE (kty)
-    url: https://www.foxterciaimobiliaria.com.br
-  - name: FOXINT (kty)
-    url: https://foxter-integrations.konecty.com
-  - name: FOXINT (kty)
-    url: https://foxter-integrations.konecty.com
-  - name: FOXCAMPIN (kty)
+  # (kty) FX services
+  - name: FX ACTIVE CAMPAIN (kty)
     url: https://foxter-activecampaign.konecty.com
-  - name: FOXFLOWV2 (kty)
+  - name: FX FLOWV2 (kty)
     url: https://foxter-flows-v2.konecty.com
-  - name: FOXMAILGUN (kty)
+  - name: FX MAILGUN (kty)
     url: https://foxter-mailgun.konecty.com
-  - name: FOXPUSH (kty)
+  - name: FX PUSH (kty)
     url: https://foxter-push.konecty.com
-  - name: FOXINTEGR (kty)
+  - name: FX INTEGRATIONS (kty)
     url: https://foxter-integrations.konecty.com
-  - name: FOXDOWN (kty)
+  - name: FX file server (kty)
     url: https://foxter-downloads.konecty.com
-  - name: FOXSOLINK (kty)
+  - name: FX SOCIAL LINK (kty)
     url: https://sociallink.konecty.com/facebook?hub.verify_token=$KTY_FACE_TOKEN
+
+  # (kty) FX alpha
+  - name: FX ALPHA API (kty)
+    url: https://alpha-api.foxterciaimobiliaria.com.br
+  - name: FX ALPHA (kty)
+    url: https://alpha.foxterciaimobiliaria.com.br
+
+  # (kty) FX backoffice
+  - name: FX
+    url: https://foxter-atendimento.konecty.com
+  - name: FX
+    url: https://rocketchat.foxter.konecty.com
+  - name: FX
+    url: https://ofertaativa.foxterciaimobiliaria.com.br
+  - name: FX
+    url: https://foxter-apps.konecty.com
+  - name: FX
+    url: https://foxter.konecty.com
+  - name: FX
+    url: https://foxter-hom.konecty.com
+
+  # (kty) FX perdigueiro
+  - name: FX
+    url: https://amp.perdigueiroimoveis.com.br
+  - name: FX
+    url: https://perdigueiroimoveis.com.br
+
+  # (kty) FX portal
+  - name: FX portal
+    url: https://festivalfoxter.com.br
+  - name: FX portal
+    url: https://megafestivalfoxter.com.br
+  - name: FX portal
+    url: https://foxterciaimobiliaria.com.br
+  - name: FX portal
+    url: https://foxterciaimobiliaria.com.br
+  - name: FX portal api
+    url: https://api.foxterciaimobiliaria.com.br
+  - name: FX conteudos pages
+    url: https://lancamentos.foxterciaimobiliaria.com.br
+  - name: FX conteudos pages
+    url: https://investimentos.foxterciaimobiliaria.com.br
+  - name: FX conteudos pages
+    url: https://conteudos.foxterciaimobiliaria.com.br
+  - name: FX conteudos pages
+    url: https://financiamento.foxterciaimobiliaria.com.br
+  - name: FX corretor
+    url: https://conexao.foxterciaimobiliaria.com.br
+  - name: FX corretor
+    url: https://corretores.foxterciaimobiliaria.com.br
+  - name: FX net
+    url: https://foxter.net.br
+  - name: FX net
+    url: https://novidadeimobiliaria.com.br
+  - name: FX net
+    url: https://novidadeimobiliaria.com.br
 
 assignees:
   - keviocastro
