@@ -68,6 +68,44 @@ sites:
   - name: FX net (kty)
     url: https://novidadeimobiliaria.com.br
 
+  # (kty) AVS
+  - name: AVS chat (kty)
+    url: https://chat.avus.com.br
+  - name: AVS integration (kty)
+    url: https://avus-integrations.konecty.com
+  - name: AVS  (kty)
+    url: https://
+  - name: AVS kty (kty)
+    url: https://avus.konecty.com
+  - name: AVS site kty  (kty)
+    url: https://avus-site.konecty.com
+  - name: AVS api  (kty)
+    url: https://api.avus.com.br
+  - name: AVS push api  (kty)
+    url: https://push-api.avus.com.br
+  - name: AVS empresas  (kty)
+    url: https://empresas.avus.com.br
+  - name: AVS landing (kty)
+    url: https://landing.avus.com.br
+  - name: AVS site (kty)
+    url: https://site-avus.konecty.com
+  - name: AVS (kty)
+    url: https://avus.com.br
+  - name: AVS card (kty)
+    url: https://avuscard.com.br
+  - name: AVS pan corret (kty)
+    url: https://pancorretora.avus.com.br
+  - name: AVS rgsp (kty)
+    url: https://rgsp.avus.com.br
+  - name: AVS too (kty)
+    url: https://too.avus.com.br
+  - name: AVS portal saude (kty)
+    url: https://portaldesaude.avus.com.br
+  - name: AVS app (kty)
+    url: https://app.avus.com.br
+  - name: AVS app avs
+    url: https://app-avus.konecty.com
+
 assignees:
   - keviocastro
 
