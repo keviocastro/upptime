@@ -95,8 +95,37 @@ sites:
     url: https://portaldesaude.avus.com.br
   - name: AVS app (kty)
     url: https://app.avus.com.br
-  - name: AVS app avs
+  - name: AVS app avs (kty)
     url: https://app-avus.konecty.com
+
+  # (kty) zuk
+  - name: zuk kty (kty)
+    url: https://zuckhan.konecty.com
+  - name: zuk site (kty)
+    url: https://zuckhan.com.br
+
+  # (kty) urba
+  - name: urba blog guaiabapark (kty)
+    url: https://blog.guaibapark.com.br
+  - name: urba blog editor guaibapark (kty)
+    url: https://blogeditor.guaibapark.com.br
+  - name: urba blog (kty)
+    url: https://blog.urbacon.com.br
+  - name: urba blog editor (kty)
+    url: https://urbacon-blogeditor.konecty.com
+  - name: urba chat (kty)
+    url: https://chat.urbacon.com.br
+  - name: urba atendimento (kty)
+    url: https://atendimento-urbacon.konecty.com
+  - name: urba integration (kty)
+    url: https://urbacon-integrations.konecty.com
+  - name: urba kty (kty)
+    url: https://urbacon.konecty.com
+  - name: urba site (kty)
+    url: https://urbacon.com.br
+
+  
+  
 
 assignees:
   - keviocastro
