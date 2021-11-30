@@ -152,6 +152,45 @@ sites:
   - name: krystal site (kty)
     url: https://krystal.com.br
 
+  # (kty) savar
+  - name: savar kty (kty)
+    url: https://gruposavar.konecty.com
+  - name: savar site (kty)
+    url: https://gruposavar.com.br
+
+  # (kty) grow
+  - name: grow kty (kty)
+    url: https://growplus.konecty.com
+  - name: grow site (kty)
+    url: https://gruposavar.com.br
+
+  # (kty) esquadria
+  - name: esquadria atendiemnto (kty)
+    url: https://atendimento-prata.konecty.com
+  - name: esquadria kty (kty)
+    url: https://esquadriasprata.konecty.com
+
+  # (kty) esquadria
+  # - name: egali blog (kty)
+  #   url: https://blog.egalite.com.br
+  - name: egali blog edtior (kty)
+    url: https://egalite-blogeditor.konecty.com
+  - name: egali chat (kty)
+    url: https://chat.incluipcd.com.br
+  - name: egali kty (kty)
+    url: https://egalite.konecty.com
+  - name: egali flows (kty)
+    url: https://egalite-flows.konecty.com
+  - name: egali integrations (kty)
+    url: https://egalite-integrations.konecty.com
+  - name: egali site (kty)
+    url: https://egalite.com.br
+  - name: egali incluipcd (kty)
+    url: https://incluipcd.com.br
+  - name: egali pcdbrasil (kty)
+    url: https://pcdbrasil.com.br
+  
+
   
   
 
