@@ -83,17 +83,9 @@ sites:
     url: https://api.avus.com.br
   - name: AVS push api  (kty)
     url: https://push-api.avus.com.br
-  # - name: AVS empresas  (kty)
-  #   url: https://empresas.avus.com.br
-  # - name: AVS landing (kty)
-  #   url: https://landing.avus.com.br
-  # - name: AVS site (kty)
-  #   url: https://site-avus.konecty.com
   - name: AVS (kty)
     url: https://avus.com.br
   - name: AVS card (kty)
-  #   url: https://avuscard.com.br
-  # - name: AVS pan corret (kty)
     url: https://pancorretora.avus.com.br
   - name: AVS rgsp (kty)
     url: https://rgsp.avus.com.br
