@@ -189,6 +189,18 @@ sites:
     url: https://incluipcd.com.br
   - name: egali pcdbrasil (kty)
     url: https://pcdbrasil.com.br
+
+  # (kty) davog
+  - name: davog kty (kty)
+    url: https://davoglio.konecty.com
+  - name: davog representante (kty)
+    url: https://davoglio.com.br
+
+  # (kty) cedularual
+  - name: cedularual kty (kty)
+    url: https://cedularural.konecty.com
+  - name: cedularual representante (kty)
+    url: https://representantes.cedularural.konecty.com
   
 
   
