@@ -25,53 +25,53 @@ sites:
     url: https://alpha.foxterciaimobiliaria.com.br
 
   # (kty) FX backoffice
-  - name: FX
+  - name: FX atendimento (kty)
     url: https://foxter-atendimento.konecty.com
-  - name: FX
+  - name: FX rocket (kty)
     url: https://rocketchat.foxter.konecty.com
-  - name: FX
+  - name: FX oferta (kty)
     url: https://ofertaativa.foxterciaimobiliaria.com.br
-  - name: FX
+  - name: FX apps (kty)
     url: https://foxter-apps.konecty.com
-  - name: FX
+  - name: FX kty (kty)
     url: https://foxter.konecty.com
-  - name: FX
+  - name: FX kty hom (kty)
     url: https://foxter-hom.konecty.com
 
   # (kty) FX perdigueiro
-  - name: FX
+  - name: FX perdigueiro amp (kty)
     url: https://amp.perdigueiroimoveis.com.br
-  - name: FX
+  - name: FX perdigueiro (kty)
     url: https://perdigueiroimoveis.com.br
 
   # (kty) FX portal
-  - name: FX portal
+  - name: FX portal 1 (kty)
     url: https://festivalfoxter.com.br
-  - name: FX portal
+  - name: FX portal 2 (kty)
     url: https://megafestivalfoxter.com.br
-  - name: FX portal
+  - name: FX portal 3 (kty)
     url: https://foxterciaimobiliaria.com.br
-  - name: FX portal
+  - name: FX portal 4 (kty)
     url: https://foxterciaimobiliaria.com.br
-  - name: FX portal api
+  - name: FX portal api (kty)
     url: https://api.foxterciaimobiliaria.com.br
-  - name: FX conteudos pages
+  - name: FX conteudos pages 1 (kty)
     url: https://lancamentos.foxterciaimobiliaria.com.br
-  - name: FX conteudos pages
+  - name: FX conteudos pages 2 (kty)
     url: https://investimentos.foxterciaimobiliaria.com.br
-  - name: FX conteudos pages
+  - name: FX conteudos pages 3 (kty)
     url: https://conteudos.foxterciaimobiliaria.com.br
-  - name: FX conteudos pages
+  - name: FX conteudos pages 4 (kty)
     url: https://financiamento.foxterciaimobiliaria.com.br
-  - name: FX corretor
+  - name: FX corretor (kty)
     url: https://conexao.foxterciaimobiliaria.com.br
-  - name: FX corretor
+  - name: FX corretor (kty)
     url: https://corretores.foxterciaimobiliaria.com.br
-  - name: FX net
+  - name: FX net (kty)
     url: https://foxter.net.br
-  - name: FX net
+  - name: FX net (kty)
     url: https://novidadeimobiliaria.com.br
-  - name: FX net
+  - name: FX net (kty)
     url: https://novidadeimobiliaria.com.br
 
 assignees:
