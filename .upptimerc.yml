@@ -55,12 +55,13 @@ sites:
     url: https://foxterciaimobiliaria.com.br
   - name: FX portal api (kty)
     url: https://api.foxterciaimobiliaria.com.br
-  - name: FX conteudos pages 1 (kty)
-    url: https://lancamentos.foxterciaimobiliaria.com.br
-  - name: FX conteudos pages 2 (kty)
-    url: https://investimentos.foxterciaimobiliaria.com.br
-  - name: FX conteudos pages 3 (kty)
-    url: https://conteudos.foxterciaimobiliaria.com.br
+  # Without healthcheck 
+  # - name: FX conteudos pages 1 (kty)
+  #   url: https://lancamentos.foxterciaimobiliaria.com.br
+  # - name: FX conteudos pages 2 (kty)
+  #   url: https://investimentos.foxterciaimobiliaria.com.br
+  # - name: FX conteudos pages 3 (kty)
+  #   url: https://conteudos.foxterciaimobiliaria.com.br
   - name: FX conteudos pages 4 (kty)
     url: https://financiamento.foxterciaimobiliaria.com.br
   - name: FX corretor (kty)
