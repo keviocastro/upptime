@@ -301,11 +301,11 @@
     "icon": "https://favicons.githubusercontent.com/perdigueiroimoveis.com.br",
     "slug": "fx-perdigueiro-kty",
     "status": "up",
-    "uptime": "95.20%",
+    "uptime": "95.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.20%",
-    "uptimeMonth": "95.20%",
-    "uptimeYear": "95.20%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "95.21%",
+    "uptimeYear": "95.21%",
     "time": 2932,
     "timeDay": 2180,
     "timeWeek": 2932,
@@ -339,19 +339,19 @@
     "url": "https://megafestivalfoxter.com.br",
     "icon": "https://favicons.githubusercontent.com/megafestivalfoxter.com.br",
     "slug": "fx-portal-2-kty",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 5148,
-    "timeDay": 4361,
-    "timeWeek": 5148,
-    "timeMonth": 5148,
-    "timeYear": 5148,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 5150,
+    "timeDay": 4499,
+    "timeWeek": 5150,
+    "timeMonth": 5150,
+    "timeYear": 5150,
     "dailyMinutesDown": {
-      "2021-12-02": 2
+      "2021-12-02": 7
     }
   },
   {
@@ -359,19 +359,19 @@
     "url": "https://foxterciaimobiliaria.com.br",
     "icon": "https://favicons.githubusercontent.com/foxterciaimobiliaria.com.br",
     "slug": "fx-portal-3-kty",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 4796,
-    "timeDay": 3707,
-    "timeWeek": 4796,
-    "timeMonth": 4796,
-    "timeYear": 4796,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 5015,
+    "timeDay": 4424,
+    "timeWeek": 5015,
+    "timeMonth": 5015,
+    "timeYear": 5015,
     "dailyMinutesDown": {
-      "2021-12-02": 2
+      "2021-12-02": 7
     }
   },
   {
@@ -379,19 +379,19 @@
     "url": "https://foxterciaimobiliaria.com.br",
     "icon": "https://favicons.githubusercontent.com/foxterciaimobiliaria.com.br",
     "slug": "fx-portal-4-kty",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 4748,
-    "timeDay": 3783,
-    "timeWeek": 4748,
-    "timeMonth": 4748,
-    "timeYear": 4748,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 4938,
+    "timeDay": 4410,
+    "timeWeek": 4938,
+    "timeMonth": 4938,
+    "timeYear": 4938,
     "dailyMinutesDown": {
-      "2021-12-02": 2
+      "2021-12-02": 7
     }
   },
   {
@@ -446,9 +446,7 @@
     "timeWeek": 3996,
     "timeMonth": 3996,
     "timeYear": 3996,
-    "dailyMinutesDown": {
-      "2021-12-02": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FX corretor (kty)",
@@ -466,9 +464,7 @@
     "timeWeek": 3996,
     "timeMonth": 3996,
     "timeYear": 3996,
-    "dailyMinutesDown": {
-      "2021-12-02": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FX net (kty)",
@@ -646,7 +642,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6340,
-    "timeDay": 6199,
+    "timeDay": 6198,
     "timeWeek": 6340,
     "timeMonth": 6340,
     "timeYear": 6340,
