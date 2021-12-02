@@ -85,6 +85,7 @@ sites:
     url: https://push-api.avus.com.br
   - name: AVS (kty)
     url: https://avus.com.br
+    maxResponseTime: 8000
   - name: AVS card (kty)
     url: https://pancorretora.avus.com.br
   - name: AVS rgsp (kty)
