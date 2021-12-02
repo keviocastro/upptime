@@ -199,11 +199,11 @@ sites:
   # konecty
   - name: konecty site
     url: https://konecty.com
-  - name: cedularual representante (kty)
+  - name: konecty chate
     url: https://chat.konecty.com
-  - name: cedularual representante (kty)
+  - name: konecty flows
     url: https://flows.konecty.com
-  - name: cedularual representante (kty)
+  - name: konecty konecty
     url: https://konecty.konecty.com  
 
 assignees:
