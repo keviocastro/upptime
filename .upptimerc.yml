@@ -73,8 +73,8 @@ sites:
     url: https://chat.avus.com.br
   - name: AVS integration (kty)
     url: https://avus-integrations.konecty.com
-  - name: AVS  (kty)
-    url: https://
+#   - name: AVS site  (kty)
+#     url: https://avus.com.br
   - name: AVS kty (kty)
     url: https://avus.konecty.com
   - name: AVS site kty  (kty)
