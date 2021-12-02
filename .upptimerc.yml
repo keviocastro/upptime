@@ -196,15 +196,15 @@ sites:
   - name: davog representante (kty)
     url: https://davoglio.com.br
 
-  # (kty) cedularual
-  - name: cedularual kty (kty)
-    url: https://cedularural.konecty.com
+  # konecty
+  - name: konecty site
+    url: https://konecty.com
   - name: cedularual representante (kty)
-    url: https://representantes.cedularural.konecty.com
-  
-
-  
-  
+    url: https://chat.konecty.com
+  - name: cedularual representante (kty)
+    url: https://flows.konecty.com
+  - name: cedularual representante (kty)
+    url: https://konecty.konecty.com  
 
 assignees:
   - keviocastro
