@@ -230,18 +230,19 @@ sites:
     url: https://admin.ofertaplay.com.br
   - name: Oferta play api
     url: https://api.ofertaplay.com.br/oauth/health
-  - name: Simer pay site
-    url: https://simerpay.site.sensiconnect.io/minha-conta
-  - name: Simer pay app
-    url: https://simerpay.admin.sensiconnect.io
+  # FIX: remove status 404 for first request: see https://stackoverflow.com/questions/50286927/i-am-getting-error-in-console-you-need-to-enable-javascript-to-run-this-app-r   
+  # - name: Simer pay site
+  #   url: https://simerpay.site.sensiconnect.io/minha-conta
+  # - name: Simer pay app
+  #   url: https://simerpay.admin.sensiconnect.io
   - name: Simer pay api
     url: https://simerpay.api.sensiconnect.io/oauth/health
   - name: Autoconect site
     url: https://autoconect.com.br
   - name: Autoconect api
     url: https://api.autoconect.com.br
-  - name: Autoconect app
-    url: https://admin.autoconect.com.br/login
+  # - name: Autoconect app
+  #   url: https://admin.autoconect.com.br/login
 
 assignees:
   - keviocastro
