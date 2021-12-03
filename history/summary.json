@@ -1664,11 +1664,11 @@
     "icon": "https://favicons.githubusercontent.com/simerpay.site.sensiconnect.io",
     "slug": "simer-pay-site",
     "status": "down",
-    "uptime": "2.27%",
-    "uptimeDay": "2.27%",
-    "uptimeWeek": "2.27%",
-    "uptimeMonth": "2.27%",
-    "uptimeYear": "2.27%",
+    "uptime": "2.14%",
+    "uptimeDay": "2.14%",
+    "uptimeWeek": "2.14%",
+    "uptimeMonth": "2.14%",
+    "uptimeYear": "2.14%",
     "time": 290,
     "timeDay": 290,
     "timeWeek": 290,
@@ -1684,18 +1684,18 @@
     "icon": "https://favicons.githubusercontent.com/simerpay.admin.sensiconnect.io",
     "slug": "simer-pay-app",
     "status": "down",
-    "uptime": "3.11%",
-    "uptimeDay": "3.11%",
-    "uptimeWeek": "3.11%",
-    "uptimeMonth": "3.11%",
-    "uptimeYear": "3.11%",
+    "uptime": "0.80%",
+    "uptimeDay": "0.80%",
+    "uptimeWeek": "0.80%",
+    "uptimeMonth": "0.80%",
+    "uptimeYear": "0.80%",
     "time": 290,
     "timeDay": 290,
     "timeWeek": 290,
     "timeMonth": 290,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2021-12-03": 0
+      "2021-12-03": 1
     }
   },
   {
@@ -1758,18 +1758,18 @@
     "icon": "https://favicons.githubusercontent.com/admin.autoconect.com.br",
     "slug": "autoconect-app",
     "status": "down",
-    "uptime": "2.71%",
-    "uptimeDay": "2.71%",
-    "uptimeWeek": "2.71%",
-    "uptimeMonth": "2.71%",
-    "uptimeYear": "2.71%",
+    "uptime": "0.82%",
+    "uptimeDay": "0.82%",
+    "uptimeWeek": "0.82%",
+    "uptimeMonth": "0.82%",
+    "uptimeYear": "0.82%",
     "time": 341,
     "timeDay": 341,
     "timeWeek": 341,
     "timeMonth": 341,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2021-12-03": 0
+      "2021-12-03": 1
     }
   }
 ]
