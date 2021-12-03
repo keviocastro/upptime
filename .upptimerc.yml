@@ -249,7 +249,7 @@ assignees:
 status-website:
   cname: upptime.solidops.cloud
   logoUrl: https://solidops.io/wp-content/themes/solidops/images/logo-header.png
-  introTitle: "**Upptime Solidops** Esté é um monitor de saúde de aplicações web e apis mantidos por [solidops.io](https://solidops.io)"
+  introTitle: "**Upptime Solidops** Este é um monitor de saúde de aplicações web e apis mantidos por [solidops.io](https://solidops.io)"
   name: "Upptime"
 
 i18n:
