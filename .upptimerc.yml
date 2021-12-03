@@ -212,14 +212,14 @@ sites:
     url: https://comunidade.portaltempoderquemage.com.br
   - name: Portal tem poder quem age app
     url: https://app.portaltempoderquemage.com.br
-  # - name: Api - Portal tem poder quem age
-  #   url: https://api.portaltempoderquemage.com.br
+  - name: Api - Portal tem poder quem age
+    url: https://api.portaltempoderquemage.com.br
   - name: Ciscontinuum site
     url: https://ciscontinuum.com.br
   - name: Ciscontinuum app
     url: https://app.ciscontinuum.com.br
-  # - name: Ciscontinuum api
-  #   url: https://api.ciscontinuum.com.br
+  - name: Ciscontinuum api
+    url: https://api.ciscontinuum.com.br
   - name: Meu Social Post app
     url: https://app.meusocialpost.app
   - name: Meu Social Post api
@@ -241,7 +241,7 @@ sites:
   - name: Autoconect api
     url: https://api.autoconect.com.br
   - name: Autoconect app
-    url: https://admin.autoconect.com.br
+    url: https://admin.autoconect.com.br/login
 
 assignees:
   - keviocastro
