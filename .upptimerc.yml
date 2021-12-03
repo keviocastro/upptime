@@ -231,7 +231,7 @@ sites:
   - name: Oferta play api
     url: https://api.ofertaplay.com.br/oauth/health
   - name: Simer pay site
-    url: https://simerpay.site.sensiconnect.io
+    url: https://simerpay.site.sensiconnect.io/minha-conta
   - name: Simer pay app
     url: https://simerpay.admin.sensiconnect.io
   - name: Simer pay api
