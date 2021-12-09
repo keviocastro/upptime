@@ -1052,19 +1052,19 @@
     "url": "https://blog.luagge.com.br",
     "icon": "https://favicons.githubusercontent.com/blog.luagge.com.br",
     "slug": "lugge-glob-kty",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 374,
     "timeDay": 400,
     "timeWeek": 357,
     "timeMonth": 374,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2021-12-09": 51
+      "2021-12-09": 46
     }
   },
   {
@@ -1108,19 +1108,19 @@
     "url": "https://luagge.com.br",
     "icon": "https://favicons.githubusercontent.com/luagge.com.br",
     "slug": "lugge-site-kty",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 6000,
     "timeDay": 6107,
     "timeWeek": 6043,
     "timeMonth": 6000,
     "timeYear": 6000,
     "dailyMinutesDown": {
-      "2021-12-09": 49
+      "2021-12-09": 44
     }
   },
   {
