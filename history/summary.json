@@ -309,11 +309,11 @@
     "icon": "https://favicons.githubusercontent.com/perdigueiroimoveis.com.br",
     "slug": "fx-perdigueiro-kty",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "98.58%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "98.59%",
     "time": 2425,
     "timeDay": 1941,
     "timeWeek": 1774,
@@ -660,7 +660,7 @@
     "uptimeYear": "100.00%",
     "time": 6331,
     "timeDay": 5899,
-    "timeWeek": 6189,
+    "timeWeek": 6193,
     "timeMonth": 6331,
     "timeYear": 6331,
     "dailyMinutesDown": {
@@ -1052,19 +1052,19 @@
     "url": "https://blog.luagge.com.br",
     "icon": "https://favicons.githubusercontent.com/blog.luagge.com.br",
     "slug": "lugge-glob-kty",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 360,
     "timeDay": 289,
     "timeWeek": 330,
     "timeMonth": 360,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2021-12-09": 7
+      "2021-12-09": 1
     }
   },
   {
@@ -1108,19 +1108,19 @@
     "url": "https://luagge.com.br",
     "icon": "https://favicons.githubusercontent.com/luagge.com.br",
     "slug": "lugge-site-kty",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 5982,
     "timeDay": 6073,
     "timeWeek": 6020,
     "timeMonth": 5982,
     "timeYear": 5982,
     "dailyMinutesDown": {
-      "2021-12-09": 6
+      "2021-12-09": 1
     }
   },
   {
