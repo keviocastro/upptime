@@ -2,9 +2,6 @@ owner: keviocastro
 repo: upptime
 
 sites:
-  - name: Konecty
-    url: https://konecty.com
-
   # (kty) FX services
   - name: FX ACTIVE CAMPAIN (kty)
     url: https://foxter-activecampaign.konecty.com
