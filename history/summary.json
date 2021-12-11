@@ -1418,19 +1418,19 @@
     "url": "https://davoglio.konecty.com",
     "icon": "https://favicons.githubusercontent.com/davoglio.konecty.com",
     "slug": "davog-kty-kty",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 206,
-    "timeWeek": 346,
-    "timeMonth": 277,
-    "timeYear": 277,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 279,
+    "timeDay": 239,
+    "timeWeek": 342,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2021-12-11": 1
+      "2021-12-11": 15
     }
   },
   {
