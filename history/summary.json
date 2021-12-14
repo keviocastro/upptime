@@ -153,18 +153,17 @@
     "icon": "https://favicons.githubusercontent.com/alpha.foxterciaimobiliaria.com.br",
     "slug": "fx-alpha-kty",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 5537,
     "timeDay": 3691,
     "timeWeek": 5725,
     "timeMonth": 5537,
     "timeYear": 5537,
     "dailyMinutesDown": {
-      "2021-12-14": 15,
       "2021-12-09": 16,
       "2021-12-03": 23
     }
@@ -446,18 +445,20 @@
     "url": "https://financiamento.foxterciaimobiliaria.com.br",
     "icon": "https://favicons.githubusercontent.com/financiamento.foxterciaimobiliaria.com.br",
     "slug": "fx-conteudos-pages-4-kty",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 3082,
     "timeDay": 185,
     "timeWeek": 3683,
     "timeMonth": 3082,
     "timeYear": 3082,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 5
+    }
   },
   {
     "name": "FX corretor (kty)",
@@ -465,18 +466,18 @@
     "icon": "https://favicons.githubusercontent.com/conexao.foxterciaimobiliaria.com.br",
     "slug": "fx-corretor-kty",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.92%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 4249,
     "timeDay": 203,
     "timeWeek": 3831,
     "timeMonth": 4249,
     "timeYear": 4249,
     "dailyMinutesDown": {
-      "2021-12-14": 9
+      "2021-12-14": 18
     }
   },
   {
@@ -485,18 +486,18 @@
     "icon": "https://favicons.githubusercontent.com/corretores.foxterciaimobiliaria.com.br",
     "slug": "fx-corretor-kty",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.92%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 4249,
     "timeDay": 203,
     "timeWeek": 3831,
     "timeMonth": 4249,
     "timeYear": 4249,
     "dailyMinutesDown": {
-      "2021-12-14": 9
+      "2021-12-14": 18
     }
   },
   {
