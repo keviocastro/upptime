@@ -1010,19 +1010,19 @@
     "url": "https://conexaopcd.com.br",
     "icon": "https://favicons.githubusercontent.com/conexaopcd.com.br",
     "slug": "sinisp-site-kty",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 6854,
-    "timeDay": 7524,
-    "timeWeek": 6361,
-    "timeMonth": 6854,
-    "timeYear": 6854,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 6833,
+    "timeDay": 6897,
+    "timeWeek": 6352,
+    "timeMonth": 6833,
+    "timeYear": 6833,
     "dailyMinutesDown": {
-      "2021-12-14": 1
+      "2021-12-14": 19
     }
   },
   {
