@@ -15,8 +15,8 @@ sites:
     url: https://foxter-integrations.konecty.com
   - name: FX file server (kty)
     url: https://foxter-downloads.konecty.com
-  - name: FX SOCIAL LINK (kty)
-    url: https://sociallink.konecty.com/facebook?hub.verify_token=$KTY_FACE_TOKEN
+  - name: FX oportunity (kty)
+    url: https://foxter-opportunity-api.konecty.com/liveness
 
   # (kty) FX alpha
   - name: FX ALPHA API (kty)
