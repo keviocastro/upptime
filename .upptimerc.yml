@@ -197,6 +197,25 @@ sites:
   - name: davog representante (kty)
     url: https://davoglio.com.br
 
+  - name:  elagi konecty (kty)
+    url: https://egalite.konecty.com
+  - name:  elagi pcbr (kty)
+    url: https://pcdbrasil.com.br
+  - name:  elagi incpcd (kty)
+    url: https://incluipcd.com.br
+  - name:  elagi (kty)
+    url: https://egalite.com.br
+  - name:  elagi (kty)
+    url: https://egalite.com.br
+  - name: egali int (kty)
+    url: https://egalite-integrations.konecty.com
+  - name: egali flows (kty)
+    url: https://egalite-flows.konecty.com
+  - name: egali beditor (kty)
+    url: https://egalite-blogeditor.konecty.com
+  - name: egali blog (kty)
+    url: https://blog.egalite.com.br
+
   # konecty
   - name: konecty site
     url: https://konecty.com
