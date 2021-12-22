@@ -126,12 +126,6 @@ sites:
     url: https://urbacon.com.br
 
   # (kty) sinisp
-  - name: sinisp kty (kty)
-    url: https://sinicesp.konecty.com
-  - name: sinisp site (kty)
-    url: https://conexaopcd.com.br
-
-  # (kty) sinisp
   - name: maedeuz kty  (kty)
     url: https://maededeus.konecty.com
   - name: maedeuz site  (kty)
@@ -171,13 +165,9 @@ sites:
   - name: esquadria kty (kty)
     url: https://esquadriasprata.konecty.com
 
-  # (kty) esquadria
-  # - name: egali blog (kty)
-  #   url: https://blog.egalite.com.br
+  # (kty) egali
   - name: egali blog edtior (kty)
     url: https://egalite-blogeditor.konecty.com
-  - name: egali chat (kty)
-    url: https://chat.incluipcd.com.br
   - name: egali kty (kty)
     url: https://egalite.konecty.com
   - name: egali flows (kty)
