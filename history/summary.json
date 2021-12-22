@@ -1036,8 +1036,8 @@
     "slug": "sinisp-kty-kty",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 383,
@@ -1046,7 +1046,7 @@
     "timeMonth": 383,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2021-12-22": 2
+      "2021-12-22": 3
     }
   },
   {
@@ -1056,8 +1056,8 @@
     "slug": "sinisp-site-kty",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 6541,
@@ -1066,7 +1066,7 @@
     "timeMonth": 6541,
     "timeYear": 6541,
     "dailyMinutesDown": {
-      "2021-12-22": 2,
+      "2021-12-22": 3,
       "2021-12-14": 19
     }
   },
@@ -1375,7 +1375,7 @@
     "slug": "egali-chat-kty",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
+    "uptimeDay": "99.83%",
     "uptimeWeek": "99.98%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
