@@ -15,216 +15,480 @@ sites:
   # (kty) FX services
   - name: FX ACTIVE CAMPAIN (kty)
     url: https://foxter-activecampaign.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX FLOWV2 (kty)
     url: https://foxter-flows-v2.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX MAILGUN (kty)
     url: https://foxter-mailgun.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX PUSH (kty)
     url: https://foxter-push.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX INTEGRATIONS (kty)
     url: https://foxter-integrations.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX file server (kty)
     url: https://foxter-downloads.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX oportunity (kty)
     url: https://foxter-opportunity-api.konecty.com/liveness
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) FX alpha
   - name: FX ALPHA API (kty)
     url: https://alpha-api.foxterciaimobiliaria.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX ALPHA (kty)
     url: https://alpha.foxterciaimobiliaria.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) FX backoffice
   - name: FX atendimento (kty)
     url: https://foxter-atendimento.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX rocket (kty)
     url: https://rocketchat.foxter.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX oferta (kty)
     url: https://ofertaativa.foxterciaimobiliaria.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX apps (kty)
     url: https://foxter-apps.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX kty (kty)
     url: https://foxter.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX kty hom (kty)
     url: https://foxter-hom.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) FX perdigueiro
   - name: FX perdigueiro amp (kty)
     url: https://amp.perdigueiroimoveis.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX perdigueiro (kty)
     url: https://perdigueiroimoveis.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) FX portal
   - name: FX portal 1 (kty)
     url: https://festivalfoxter.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX portal 2 (kty)
     url: https://megafestivalfoxter.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX portal 3 (kty)
     url: https://foxterciaimobiliaria.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX portal 4 (kty)
     url: https://foxterciaimobiliaria.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX portal api (kty)
     url: https://api.foxterciaimobiliaria.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX conteudos pages 4 (kty)
     url: https://financiamento.foxterciaimobiliaria.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX corretor (kty)
     url: https://conexao.foxterciaimobiliaria.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX corretor (kty)
     url: https://corretores.foxterciaimobiliaria.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX net (kty)
     url: https://foxter.net.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX net (kty)
     url: https://novidadeimobiliaria.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: FX net (kty)
     url: https://novidadeimobiliaria.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) AVS
   - name: AVS chat (kty)
     url: https://chat.avus.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: AVS integration (kty)
     url: https://avus-integrations.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 #   - name: AVS site  (kty)
 #     url: https://avus.com.br
   - name: AVS kty (kty)
     url: https://avus.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: AVS site kty  (kty)
     url: https://avus-site.konecty.com/login
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: AVS api  (kty)
     url: https://api.avus.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: AVS push api  (kty)
     url: https://push-api.avus.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: AVS (kty)
     url: https://avus.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
     maxResponseTime: 8000
   - name: AVS card (kty)
     url: https://pancorretora.avus.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: AVS rgsp (kty)
     url: https://rgsp.avus.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: AVS too (kty)
     url: https://too.avus.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: AVS portal saude (kty)
     url: https://portaldesaude.avus.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: AVS app (kty)
     url: https://app.avus.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: AVS app avs (kty)
     url: https://app-avus.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) zuk
   - name: zuk kty (kty)
     url: https://zuckhan.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: zuk site (kty)
     url: https://zuckhan.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) urba
   - name: urba blog guaiabapark (kty)
     url: https://blog.guaibapark.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: urba blog editor guaibapark (kty)
     url: https://blogeditor.guaibapark.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: urba blog (kty)
     url: https://blog.urbacon.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: urba blog editor (kty)
     url: https://urbacon-blogeditor.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: urba chat (kty)
     url: https://chat.urbacon.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: urba atendimento (kty)
     url: https://atendimento-urbacon.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: urba integration (kty)
     url: https://urbacon-integrations.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: urba kty (kty)
     url: https://urbacon.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: urba site (kty)
     url: https://urbacon.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) sinisp
   - name: maedeuz kty  (kty)
     url: https://maededeus.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: maedeuz site  (kty)
     url: https://centroclinicomaededeus.med.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) lugge
   - name: lugge glob  (kty)
     url: https://blog.luagge.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: lugge glob editor  (kty)
     url: https://luagge-blogeditor.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: lugge kty  (kty)
     url: https://luagge.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: lugge site  (kty)
     url: https://luagge.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) krystal
   - name: krystal kty (kty)
     url: https://krystal.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: krystal site (kty)
     url: https://krystal.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) savar
   - name: savar kty (kty)
     url: https://gruposavar.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: savar site (kty)
     url: https://gruposavar.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) grow
   - name: grow kty (kty)
     url: https://growplus.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: grow site (kty)
     url: https://iranilabs.galileu.io
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) esquadria
   - name: esquadria atendiemnto (kty)
     url: https://atendimento-prata.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: esquadria kty (kty)
     url: https://esquadriasprata.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) egali
   - name: egali blog edtior (kty)
     url: https://egalite-blogeditor.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: egali kty (kty)
     url: https://egalite.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: egali flows (kty)
     url: https://egalite-flows.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: egali integrations (kty)
     url: https://egalite-integrations.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: egali site (kty)
     url: https://egalite.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: egali incluipcd (kty)
     url: https://incluipcd.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: egali pcdbrasil (kty)
     url: https://pcdbrasil.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) davog
   - name: davog kty (kty)
     url: https://davoglio.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: davog representante (kty)
     url: https://davoglio.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   - name:  elagi konecty (kty)
     url: https://egalite.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name:  elagi pcbr (kty)
     url: https://pcdbrasil.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name:  elagi incpcd (kty)
     url: https://incluipcd.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name:  elagi (kty)
     url: https://egalite.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name:  elagi (kty)
     url: https://egalite.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: egali int (kty)
     url: https://egalite-integrations.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: egali flows (kty)
     url: https://egalite-flows.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: egali beditor (kty)
     url: https://egalite-blogeditor.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: egali blog (kty)
     url: https://blog.egalite.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # konecty
   - name: konecty site
     url: https://konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: konecty chate
     url: https://chat.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: konecty flows
     url: https://flows.konecty.com
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: konecty konecty
     url: https://konecty.konecty.com  
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # Sensi
   - name: Portal tem poder quem age stie
@@ -264,6 +528,7 @@ sites:
 
 assignees:
   - keviocastro
+  - andretapxure
 
 status-website:
   cname: upptime.solidops.cloud
