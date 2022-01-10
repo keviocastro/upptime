@@ -88,7 +88,7 @@ sites:
   - name: AVS kty (kty)
     url: https://avus.konecty.com
   - name: AVS site kty  (kty)
-    url: https://avus-site.konecty.com
+    url: https://avus-site.konecty.com/login
   - name: AVS api  (kty)
     url: https://api.avus.com.br
   - name: AVS push api  (kty)
