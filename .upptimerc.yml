@@ -409,6 +409,23 @@ sites:
     assignees:
       - AnandChowdhary
       - marcusdemoura
+  
+  # (kty) sinicesp
+  - name: sinicesp_site kty (kty)
+    url: https://sinicesp.konecty.com/login
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
+  - name: sinicesp site (kty)
+    url: http://conexaopcd.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
+  - name: sinicesp site (kty)
+    url: http://www.conexaopcd.com.br
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
 
   # (kty) davog
   - name: davog kty (kty)
