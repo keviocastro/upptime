@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/billet.app.gipisistemas.com.br",
     "slug": "gipi-billet",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.85%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 293,
     "timeDay": 303,
     "timeWeek": 277,
     "timeMonth": 293,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2022-01-12": 3
+      "2022-01-12": 20
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/financial.app.gipisistemas.com.br",
     "slug": "gipi-financial",
     "status": "down",
-    "uptime": "99.33%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.33%",
+    "uptime": "99.20%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
     "time": 276,
     "timeDay": 351,
     "timeWeek": 287,
     "timeMonth": 276,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2022-01-12": 3,
+      "2022-01-12": 20,
       "2022-01-07": 86
     }
   },
@@ -46,18 +46,18 @@
     "icon": "https://favicons.githubusercontent.com/oauth.app.gipisistemas.com.br",
     "slug": "gipi-oauth",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.85%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 243,
     "timeDay": 289,
     "timeWeek": 235,
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2022-01-12": 3
+      "2022-01-12": 20
     }
   },
   {
@@ -65,18 +65,20 @@
     "url": "https://app.gipisistemas.com.br",
     "icon": "https://favicons.githubusercontent.com/app.gipisistemas.com.br",
     "slug": "gipi-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 224,
     "timeDay": 259,
     "timeWeek": 224,
     "timeMonth": 224,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-12": 3
+    }
   },
   {
     "name": "FX ACTIVE CAMPAIN (kty)",
