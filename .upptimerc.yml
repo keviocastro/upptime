@@ -10,7 +10,7 @@ sites:
   - name: GIPI oauth
     url: https://oauth.app.gipisistemas.com.br/public/check/health
   - name: GIPI app
-    url: https://app.gipisistemas.com.br/public/check/health
+    url: https://app.gipisistemas.com.br
 
   # (kty) FX services
   - name: FX ACTIVE CAMPAIN (kty)
