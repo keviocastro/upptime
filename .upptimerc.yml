@@ -374,6 +374,11 @@ sites:
       - marcusdemoura
 
   # (kty) egali
+  - name: egali empresa (kty)
+    url: https://empresa.incluipcd.com.br/admin
+    assignees:
+      - AnandChowdhary
+      - marcusdemoura
   - name: egali blog edtior (kty)
     url: https://egalite-blogeditor.konecty.com
     assignees:
