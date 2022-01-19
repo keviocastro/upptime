@@ -180,11 +180,6 @@ sites:
     assignees:
       - AnandChowdhary
       - marcusdemoura
-  - name: AVS site kty  (kty)
-    url: https://avus-site.konecty.com/login
-    assignees:
-      - AnandChowdhary
-      - marcusdemoura
   - name: AVS api  (kty)
     url: https://api.avus.com.br
     assignees:
@@ -223,11 +218,6 @@ sites:
       - marcusdemoura
   - name: AVS app (kty)
     url: https://app.avus.com.br
-    assignees:
-      - AnandChowdhary
-      - marcusdemoura
-  - name: AVS app avs (kty)
-    url: https://app-avus.konecty.com
     assignees:
       - AnandChowdhary
       - marcusdemoura
