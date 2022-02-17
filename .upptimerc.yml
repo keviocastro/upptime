@@ -310,17 +310,29 @@ sites:
 
 
   # konecty
-  - name: konecty site
+  - name: kty site
     url: https://konecty.com
 
-  - name: konecty chate
+  - name: kty chate
     url: https://chat.konecty.com
 
-  - name: konecty flows
+  - name: kty flows
     url: https://flows.konecty.com
 
-  - name: konecty konecty
+  - name: kty kty
     url: https://konecty.konecty.com  
+    
+  - nmae: kty esqu webservice
+    url: https://webservices-esquadriasprata.konecty.com/img/logo.png
+    
+  - name: kty esqu atendimento
+    url: https://atendimento-prata.konecty.com
+    
+  - name: kty esqu api
+    url: https://esquadriasprata-api.konecty.com
+   
+  - name: kty esqu konecty
+    url: https://esquadriasprata.konecty.com/login
 
 
   # Sensi
