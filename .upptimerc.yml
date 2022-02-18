@@ -321,9 +321,10 @@ sites:
 
   - name: kty kty
     url: https://konecty.konecty.com  
-    
-  - nmae: kty esqu webservice
-    url: https://webservices-esquadriasprata.konecty.com/img/logo.png
+   
+  # No health check
+  #- nmae: kty esqu webservice
+  #  url: https://webservices-esquadriasprata.konecty.com/img/logo.png
     
   - name: kty esqu atendimento
     url: https://atendimento-prata.konecty.com
