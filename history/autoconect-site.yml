@@ -1,7 +1,7 @@
 url: https://autoconect.com.br
-status: up
-code: 200
-responseTime: 661
-lastUpdated: 2022-02-18T23:17:18.211Z
+status: down
+code: 504
+responseTime: 10174
+lastUpdated: 2022-02-19T16:37:54.117Z
 startTime: Fri Dec 03 2021 14:32:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
