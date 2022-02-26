@@ -319,8 +319,8 @@
     "slug": "fx-rocket-kty",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.78%",
     "time": 433,
@@ -329,7 +329,7 @@
     "timeMonth": 416,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2022-02-26": 10,
+      "2022-02-26": 11,
       "2022-01-30": 160,
       "2022-01-21": 17,
       "2021-12-14": 39,
@@ -997,8 +997,8 @@
     "slug": "zuk-site-kty",
     "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.40%",
     "time": 6101,
@@ -1007,7 +1007,7 @@
     "timeMonth": 6351,
     "timeYear": 6101,
     "dailyMinutesDown": {
-      "2022-02-26": 9,
+      "2022-02-26": 10,
       "2022-01-13": 380,
       "2021-12-22": 322,
       "2021-12-13": 31,
@@ -1061,8 +1061,8 @@
     "slug": "urba-blog-kty",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 899,
@@ -1071,7 +1071,7 @@
     "timeMonth": 979,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2022-02-26": 8,
+      "2022-02-26": 10,
       "2021-12-17": 27
     }
   },
@@ -1102,8 +1102,8 @@
     "slug": "urba-chat-kty",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.93%",
     "time": 706,
@@ -1112,7 +1112,7 @@
     "timeMonth": 752,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2022-02-26": 7,
+      "2022-02-26": 9,
       "2021-12-17": 82
     }
   },
@@ -1123,8 +1123,8 @@
     "slug": "urba-atendimento-kty",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.93%",
     "time": 194,
@@ -1133,7 +1133,7 @@
     "timeMonth": 205,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2022-02-26": 7,
+      "2022-02-26": 8,
       "2021-12-17": 82
     }
   },
@@ -1185,9 +1185,9 @@
     "slug": "urba-site-kty",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 179,
     "timeDay": 106,
@@ -1195,7 +1195,7 @@
     "timeMonth": 192,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2022-02-26": 6,
+      "2022-02-26": 8,
       "2021-12-17": 27
     }
   },
@@ -1228,9 +1228,9 @@
     "slug": "maedeuz-site-kty",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.95%",
     "time": 530,
     "timeDay": 684,
@@ -1238,7 +1238,7 @@
     "timeMonth": 569,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2022-02-26": 6,
+      "2022-02-26": 7,
       "2021-12-13": 51
     }
   },
@@ -1249,9 +1249,9 @@
     "slug": "lugge-glob-kty",
     "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.60%",
     "time": 553,
     "timeDay": 417,
@@ -1259,7 +1259,7 @@
     "timeMonth": 606,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2022-02-26": 5,
+      "2022-02-26": 7,
       "2022-01-13": 393,
       "2021-12-09": 100
     }
@@ -1311,8 +1311,8 @@
     "slug": "lugge-site-kty",
     "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "99.24%",
     "time": 6785,
@@ -1321,7 +1321,7 @@
     "timeMonth": 7260,
     "timeYear": 6785,
     "dailyMinutesDown": {
-      "2022-02-26": 5,
+      "2022-02-26": 6,
       "2022-02-14": 39,
       "2022-02-10": 441,
       "2022-01-16": 185,
@@ -1355,18 +1355,18 @@
     "icon": "https://favicons.githubusercontent.com/krystal.com.br",
     "slug": "krystal-site-kty",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
+    "uptime": "99.95%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.95%",
     "time": 7022,
     "timeDay": 6824,
     "timeWeek": 6943,
     "timeMonth": 7042,
     "timeYear": 7022,
     "dailyMinutesDown": {
-      "2022-02-26": 4,
+      "2022-02-26": 6,
       "2021-12-13": 51
     }
   },
@@ -1396,18 +1396,18 @@
     "icon": "https://favicons.githubusercontent.com/gruposavar.com.br",
     "slug": "savar-site-kty",
     "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
+    "uptime": "99.45%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "99.46%",
+    "uptimeYear": "99.45%",
     "time": 444,
     "timeDay": 502,
     "timeWeek": 469,
     "timeMonth": 468,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2022-02-26": 4,
+      "2022-02-26": 5,
       "2022-01-11": 664,
       "2021-12-17": 18
     }
@@ -1626,8 +1626,8 @@
     "slug": "egali-site-kty",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 461,
@@ -1636,7 +1636,7 @@
     "timeMonth": 463,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2022-02-26": 3,
+      "2022-02-26": 5,
       "2022-01-14": 21
     }
   },
@@ -1668,8 +1668,8 @@
     "slug": "egali-pcdbrasil-kty",
     "status": "down",
     "uptime": "96.68%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "96.68%",
     "time": 7285,
@@ -1678,7 +1678,7 @@
     "timeMonth": 7918,
     "timeYear": 7285,
     "dailyMinutesDown": {
-      "2022-02-26": 3,
+      "2022-02-26": 4,
       "2022-01-27": 15,
       "2022-01-26": 604,
       "2022-01-14": 21,
@@ -1714,18 +1714,18 @@
     "icon": "https://favicons.githubusercontent.com/conexaopcd.com.br",
     "slug": "sinicesp-site-kty",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 7324,
     "timeDay": 7109,
     "timeWeek": 7250,
     "timeMonth": 7319,
     "timeYear": 7324,
     "dailyMinutesDown": {
-      "2022-02-26": 2
+      "2022-02-26": 4
     }
   },
   {
@@ -1734,18 +1734,18 @@
     "icon": "https://favicons.githubusercontent.com/www.conexaopcd.com.br",
     "slug": "sinicesp-site-kty",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 7324,
     "timeDay": 7109,
     "timeWeek": 7250,
     "timeMonth": 7319,
     "timeYear": 7324,
     "dailyMinutesDown": {
-      "2022-02-26": 2
+      "2022-02-26": 4
     }
   },
   {
