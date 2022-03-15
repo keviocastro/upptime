@@ -372,10 +372,6 @@ sites:
   - name: Autoconect app
     url: https://admin.autoconect.com.br/login
 
-assignees:
-  - keviocastro
-  - andretapxure
-
 status-website:
   cname: upptime.solidops.cloud
   logoUrl: https://solidops.io/wp-content/themes/solidops/images/logo-header.png
