@@ -314,6 +314,15 @@ sites:
   - name: egali blog (kty)
     url: https://blog.egalite.com.br
 
+  - name:  elagi-cl konecty (kty)
+    url: https://egalite-cl.konecty.com
+
+  - name:  elagi-cl Portal (kty)
+    url: https://egalite.cl
+
+  - name:  elagi-cl API (kty)
+    url: https://api.egalite.cl
+
 
   # konecty
   - name: kty site
