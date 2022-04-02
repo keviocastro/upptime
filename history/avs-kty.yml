@@ -1,7 +1,7 @@
 url: https://avus.com.br
-status: up
+status: degraded
 code: 200
-responseTime: 7369
-lastUpdated: 2022-04-01T23:16:51.908Z
+responseTime: 8040
+lastUpdated: 2022-04-02T17:04:16.416Z
 startTime: Tue Nov 30 2021 03:19:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
