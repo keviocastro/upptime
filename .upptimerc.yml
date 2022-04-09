@@ -263,10 +263,6 @@ sites:
 
   - name: egali rumo (kty)
     url: https://rumo.konecty.com
-    
-  - name: egali rumo-site (kty)
-    url: https://rumo-site.konecty.com
-
   
   # (kty) sinicesp
   - name: sinicesp_site kty (kty)
