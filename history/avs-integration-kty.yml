@@ -1,7 +1,7 @@
 url: https://avus-integrations.konecty.com
-status: down
-code: 503
-responseTime: 140
-lastUpdated: 2022-04-11T03:01:46.971Z
+status: up
+code: 200
+responseTime: 87
+lastUpdated: 2022-04-11T03:45:28.158Z
 startTime: Tue Nov 30 2021 03:19:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
