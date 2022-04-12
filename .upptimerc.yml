@@ -218,7 +218,12 @@ sites:
 
   - name: savar site (kty)
     url: https://gruposavar.com.br
-
+    
+  - name: Ca park adm (kty)
+    url: https://canoaspark.urbacon.com.br/admin
+    
+  - name: Ca park simulator (kty)
+    url: https://canoaspark.urbacon.com.br/simulador
 
   # (kty) grow
   - name: grow kty (kty)
