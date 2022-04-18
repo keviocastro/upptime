@@ -155,10 +155,10 @@ sites:
 
   # (kty) urba
   - name: urba blog guaiabapark (kty)
-    url: https://blog.guaibapark.com.br
+    url: https://blogguaibapark.urbacon.com.br
 
   - name: urba blog editor guaibapark (kty)
-    url: https://blogeditor.guaibapark.com.br
+    url: https://blogeditorguaibapark.urbacon.com.br
 
   - name: urba blog (kty)
     url: https://blog.urbacon.com.br
