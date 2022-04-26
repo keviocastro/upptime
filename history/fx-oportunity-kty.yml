@@ -1,7 +1,7 @@
 url: https://foxter-opportunity-api.konecty.com/liveness
-status: down
-code: 404
-responseTime: 326
-lastUpdated: 2022-04-26T09:50:32.133Z
+status: up
+code: 200
+responseTime: 78
+lastUpdated: 2022-04-26T10:18:36.187Z
 startTime: Wed Dec 22 2021 14:27:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
