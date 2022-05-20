@@ -12,6 +12,13 @@ sites:
   - name: GIPI app
     url: https://app.gipisistemas.com.br
 
+  # (kty) FX blog
+  - name: FX blog (kty)
+    url: https://blog.foxterciaimobiliaria.com.br
+    
+  - name: FX blog (kty)
+    url: https://foxter-blogeditor.konecty.com
+  
   # (kty) FX services
   - name: FX ACTIVE CAMPAIN (kty)
     url: https://foxter-activecampaign.konecty.com
