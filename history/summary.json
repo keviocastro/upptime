@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/billet.app.gipisistemas.com.br",
     "slug": "gipi-billet",
     "status": "up",
-    "uptime": "92.03%",
+    "uptime": "92.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "75.36%",
     "uptimeMonth": "94.30%",
-    "uptimeYear": "92.03%",
+    "uptimeYear": "92.04%",
     "time": 374,
     "timeDay": 493,
     "timeWeek": 1337,
-    "timeMonth": 528,
+    "timeMonth": 535,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2022-06-15": 754,
@@ -49,18 +49,19 @@
     "url": "https://financial.app.gipisistemas.com.br/public/check/health",
     "icon": "https://favicons.githubusercontent.com/financial.app.gipisistemas.com.br",
     "slug": "gipi-financial",
-    "status": "up",
-    "uptime": "93.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "73.92%",
-    "uptimeMonth": "93.76%",
-    "uptimeYear": "93.69%",
+    "status": "down",
+    "uptime": "93.70%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "73.89%",
+    "uptimeMonth": "93.75%",
+    "uptimeYear": "93.70%",
     "time": 336,
-    "timeDay": 468,
-    "timeWeek": 361,
-    "timeMonth": 359,
+    "timeDay": 465,
+    "timeWeek": 368,
+    "timeMonth": 362,
     "timeYear": 336,
     "dailyMinutesDown": {
+      "2022-06-17": 3,
       "2022-06-15": 798,
       "2022-06-14": 1440,
       "2022-06-13": 300,
@@ -115,7 +116,7 @@
     "time": 294,
     "timeDay": 594,
     "timeWeek": 310,
-    "timeMonth": 310,
+    "timeMonth": 312,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2022-06-15": 754,
@@ -147,7 +148,7 @@
     "time": 291,
     "timeDay": 445,
     "timeWeek": 244,
-    "timeMonth": 289,
+    "timeMonth": 290,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2022-06-15": 754,
@@ -213,7 +214,7 @@
     "time": 319,
     "timeDay": 169,
     "timeWeek": 236,
-    "timeMonth": 238,
+    "timeMonth": 236,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -234,7 +235,7 @@
     "time": 287,
     "timeDay": 212,
     "timeWeek": 256,
-    "timeMonth": 240,
+    "timeMonth": 238,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -266,7 +267,7 @@
     "time": 441,
     "timeDay": 182,
     "timeWeek": 229,
-    "timeMonth": 225,
+    "timeMonth": 222,
     "timeYear": 441,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -288,7 +289,7 @@
     "time": 278,
     "timeDay": 174,
     "timeWeek": 228,
-    "timeMonth": 222,
+    "timeMonth": 224,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -309,7 +310,7 @@
     "time": 275,
     "timeDay": 170,
     "timeWeek": 227,
-    "timeMonth": 225,
+    "timeMonth": 222,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -333,7 +334,7 @@
     "time": 278,
     "timeDay": 167,
     "timeWeek": 243,
-    "timeMonth": 228,
+    "timeMonth": 224,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -354,7 +355,7 @@
     "time": 333,
     "timeDay": 192,
     "timeWeek": 244,
-    "timeMonth": 278,
+    "timeMonth": 276,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -384,7 +385,7 @@
     "time": 369,
     "timeDay": 283,
     "timeWeek": 325,
-    "timeMonth": 317,
+    "timeMonth": 314,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -415,7 +416,7 @@
     "time": 5085,
     "timeDay": 3622,
     "timeWeek": 4801,
-    "timeMonth": 5291,
+    "timeMonth": 5286,
     "timeYear": 5085,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -447,13 +448,13 @@
     "status": "up",
     "uptime": "97.72%",
     "uptimeDay": "99.49%",
-    "uptimeWeek": "52.95%",
+    "uptimeWeek": "56.28%",
     "uptimeMonth": "87.59%",
     "uptimeYear": "97.72%",
     "time": 264,
     "timeDay": 104,
     "timeWeek": 208,
-    "timeMonth": 229,
+    "timeMonth": 227,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -492,7 +493,7 @@
     "time": 406,
     "timeDay": 117,
     "timeWeek": 366,
-    "timeMonth": 372,
+    "timeMonth": 368,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2022-05-17": 70,
@@ -520,7 +521,7 @@
     "time": 256,
     "timeDay": 249,
     "timeWeek": 235,
-    "timeMonth": 232,
+    "timeMonth": 230,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -542,7 +543,7 @@
     "time": 397,
     "timeDay": 205,
     "timeWeek": 284,
-    "timeMonth": 301,
+    "timeMonth": 298,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -569,7 +570,7 @@
     "time": 465,
     "timeDay": 183,
     "timeWeek": 284,
-    "timeMonth": 295,
+    "timeMonth": 292,
     "timeYear": 465,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -599,7 +600,7 @@
     "time": 398,
     "timeDay": 188,
     "timeWeek": 281,
-    "timeMonth": 292,
+    "timeMonth": 289,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -624,7 +625,7 @@
     "time": 529,
     "timeDay": 309,
     "timeWeek": 415,
-    "timeMonth": 451,
+    "timeMonth": 448,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -637,15 +638,15 @@
     "icon": "https://favicons.githubusercontent.com/perdigueiroimoveis.com.br",
     "slug": "fx-perdigueiro-kty",
     "status": "up",
-    "uptime": "92.36%",
+    "uptime": "92.37%",
     "uptimeDay": "99.49%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "92.36%",
+    "uptimeYear": "92.37%",
     "time": 1897,
     "timeDay": 1412,
     "timeWeek": 1723,
-    "timeMonth": 1619,
+    "timeMonth": 1626,
     "timeYear": 1897,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -698,7 +699,7 @@
     "time": 5294,
     "timeDay": 3698,
     "timeWeek": 5162,
-    "timeMonth": 5076,
+    "timeMonth": 5066,
     "timeYear": 5294,
     "dailyMinutesDown": {
       "2022-06-17": 7,
@@ -731,7 +732,7 @@
     "time": 5231,
     "timeDay": 3577,
     "timeWeek": 4787,
-    "timeMonth": 4995,
+    "timeMonth": 4983,
     "timeYear": 5231,
     "dailyMinutesDown": {
       "2022-06-17": 8,
@@ -764,7 +765,7 @@
     "time": 1013,
     "timeDay": 167,
     "timeWeek": 231,
-    "timeMonth": 377,
+    "timeMonth": 371,
     "timeYear": 1013,
     "dailyMinutesDown": {
       "2022-06-17": 8,
@@ -823,7 +824,7 @@
     "time": 276,
     "timeDay": 227,
     "timeWeek": 226,
-    "timeMonth": 220,
+    "timeMonth": 215,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2022-05-12": 46,
@@ -836,15 +837,15 @@
     "icon": "https://favicons.githubusercontent.com/financiamento.foxterciaimobiliaria.com.br",
     "slug": "fx-conteudos-pages-4-kty",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.37%",
     "time": 3255,
     "timeDay": 2197,
     "timeWeek": 2954,
-    "timeMonth": 3824,
+    "timeMonth": 3916,
     "timeYear": 3255,
     "dailyMinutesDown": {
       "2022-05-12": 44,
@@ -869,7 +870,7 @@
     "time": 1862,
     "timeDay": 165,
     "timeWeek": 739,
-    "timeMonth": 1742,
+    "timeMonth": 1776,
     "timeYear": 1862,
     "dailyMinutesDown": {
       "2022-05-12": 43,
@@ -893,7 +894,7 @@
     "time": 1862,
     "timeDay": 165,
     "timeWeek": 739,
-    "timeMonth": 1742,
+    "timeMonth": 1776,
     "timeYear": 1862,
     "dailyMinutesDown": {
       "2022-05-12": 43,
@@ -917,7 +918,7 @@
     "time": 291,
     "timeDay": 219,
     "timeWeek": 258,
-    "timeMonth": 259,
+    "timeMonth": 258,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2022-01-30": 173
@@ -937,7 +938,7 @@
     "time": 291,
     "timeDay": 219,
     "timeWeek": 258,
-    "timeMonth": 259,
+    "timeMonth": 258,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2022-01-30": 173
@@ -957,7 +958,7 @@
     "time": 291,
     "timeDay": 219,
     "timeWeek": 258,
-    "timeMonth": 259,
+    "timeMonth": 258,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2022-01-30": 173
@@ -977,7 +978,7 @@
     "time": 408,
     "timeDay": 263,
     "timeWeek": 286,
-    "timeMonth": 316,
+    "timeMonth": 319,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2022-03-22": 26,
@@ -1000,7 +1001,7 @@
     "time": 143,
     "timeDay": 102,
     "timeWeek": 120,
-    "timeMonth": 151,
+    "timeMonth": 153,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2022-04-11": 44,
@@ -1022,7 +1023,7 @@
     "time": 240,
     "timeDay": 315,
     "timeWeek": 250,
-    "timeMonth": 249,
+    "timeMonth": 252,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2022-02-21": 18,
@@ -1043,7 +1044,7 @@
     "time": 248,
     "timeDay": 253,
     "timeWeek": 266,
-    "timeMonth": 262,
+    "timeMonth": 264,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2022-02-21": 18,
@@ -1065,7 +1066,7 @@
     "time": 559,
     "timeDay": 218,
     "timeWeek": 242,
-    "timeMonth": 247,
+    "timeMonth": 249,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2022-05-21": 28,
@@ -1095,7 +1096,7 @@
     "time": 6910,
     "timeDay": 4445,
     "timeWeek": 5995,
-    "timeMonth": 7573,
+    "timeMonth": 7575,
     "timeYear": 6910,
     "dailyMinutesDown": {
       "2022-06-04": 27,
@@ -1169,7 +1170,7 @@
     "time": 6487,
     "timeDay": 4113,
     "timeWeek": 5467,
-    "timeMonth": 6403,
+    "timeMonth": 6400,
     "timeYear": 6487,
     "dailyMinutesDown": {
       "2022-03-22": 26,
@@ -1198,7 +1199,7 @@
     "time": 6353,
     "timeDay": 4215,
     "timeWeek": 5579,
-    "timeMonth": 6555,
+    "timeMonth": 6556,
     "timeYear": 6353,
     "dailyMinutesDown": {
       "2022-03-22": 26,
@@ -1225,7 +1226,7 @@
     "time": 6318,
     "timeDay": 4076,
     "timeWeek": 5494,
-    "timeMonth": 6472,
+    "timeMonth": 6473,
     "timeYear": 6318,
     "dailyMinutesDown": {
       "2022-03-22": 27,
@@ -1298,7 +1299,7 @@
     "time": 6181,
     "timeDay": 6197,
     "timeWeek": 6296,
-    "timeMonth": 6255,
+    "timeMonth": 6254,
     "timeYear": 6181,
     "dailyMinutesDown": {
       "2022-05-17": 68,
@@ -1326,7 +1327,7 @@
     "time": 538,
     "timeDay": 961,
     "timeWeek": 1007,
-    "timeMonth": 971,
+    "timeMonth": 969,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2022-05-17": 68,
@@ -1349,7 +1350,7 @@
     "time": 343,
     "timeDay": 235,
     "timeWeek": 519,
-    "timeMonth": 519,
+    "timeMonth": 520,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2022-05-17": 67,
@@ -1371,7 +1372,7 @@
     "time": 847,
     "timeDay": 652,
     "timeWeek": 671,
-    "timeMonth": 631,
+    "timeMonth": 628,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2022-05-17": 67,
@@ -1395,7 +1396,7 @@
     "time": 160,
     "timeDay": 135,
     "timeWeek": 155,
-    "timeMonth": 153,
+    "timeMonth": 152,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2021-12-17": 27
@@ -1415,7 +1416,7 @@
     "time": 711,
     "timeDay": 441,
     "timeWeek": 676,
-    "timeMonth": 638,
+    "timeMonth": 634,
     "timeYear": 711,
     "dailyMinutesDown": {
       "2022-05-17": 66,
@@ -1439,7 +1440,7 @@
     "time": 193,
     "timeDay": 66,
     "timeWeek": 170,
-    "timeMonth": 183,
+    "timeMonth": 180,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2022-05-17": 66,
@@ -1491,7 +1492,7 @@
     "time": 262,
     "timeDay": 174,
     "timeWeek": 227,
-    "timeMonth": 244,
+    "timeMonth": 243,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2022-04-26": 19,
@@ -1513,7 +1514,7 @@
     "time": 174,
     "timeDay": 46,
     "timeWeek": 155,
-    "timeMonth": 164,
+    "timeMonth": 162,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2022-05-17": 65,
@@ -1559,7 +1560,7 @@
     "time": 550,
     "timeDay": 615,
     "timeWeek": 577,
-    "timeMonth": 553,
+    "timeMonth": 552,
     "timeYear": 550,
     "dailyMinutesDown": {
       "2022-05-17": 65,
@@ -1582,7 +1583,7 @@
     "time": 548,
     "timeDay": 333,
     "timeWeek": 470,
-    "timeMonth": 513,
+    "timeMonth": 512,
     "timeYear": 548,
     "dailyMinutesDown": {
       "2022-05-17": 64,
@@ -1649,7 +1650,7 @@
     "time": 6970,
     "timeDay": 6118,
     "timeWeek": 5988,
-    "timeMonth": 7054,
+    "timeMonth": 7072,
     "timeYear": 6970,
     "dailyMinutesDown": {
       "2022-06-10": 39,
@@ -1682,7 +1683,7 @@
     "time": 254,
     "timeDay": 161,
     "timeWeek": 214,
-    "timeMonth": 235,
+    "timeMonth": 234,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2022-03-21": 20,
@@ -1703,7 +1704,7 @@
     "time": 7285,
     "timeDay": 7026,
     "timeWeek": 7380,
-    "timeMonth": 7655,
+    "timeMonth": 7640,
     "timeYear": 7285,
     "dailyMinutesDown": {
       "2022-05-17": 63,
@@ -1727,7 +1728,7 @@
     "time": 257,
     "timeDay": 161,
     "timeWeek": 248,
-    "timeMonth": 238,
+    "timeMonth": 237,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2021-12-17": 18
@@ -1747,7 +1748,7 @@
     "time": 451,
     "timeDay": 420,
     "timeWeek": 455,
-    "timeMonth": 449,
+    "timeMonth": 448,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2022-05-17": 62,
@@ -1763,15 +1764,15 @@
     "icon": "https://favicons.githubusercontent.com/canoaspark.urbacon.com.br",
     "slug": "ca-park-adm-kty",
     "status": "up",
-    "uptime": "89.04%",
+    "uptime": "89.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "89.04%",
+    "uptimeYear": "89.08%",
     "time": 524,
     "timeDay": 239,
     "timeWeek": 495,
-    "timeMonth": 542,
+    "timeMonth": 543,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2022-05-17": 62,
@@ -1791,15 +1792,15 @@
     "icon": "https://favicons.githubusercontent.com/canoaspark.urbacon.com.br",
     "slug": "ca-park-simulator-kty",
     "status": "up",
-    "uptime": "89.04%",
+    "uptime": "89.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "89.04%",
+    "uptimeYear": "89.08%",
     "time": 7560,
     "timeDay": 8231,
     "timeWeek": 7780,
-    "timeMonth": 8408,
+    "timeMonth": 8391,
     "timeYear": 7560,
     "dailyMinutesDown": {
       "2022-05-17": 61,
@@ -1827,7 +1828,7 @@
     "time": 256,
     "timeDay": 362,
     "timeWeek": 282,
-    "timeMonth": 249,
+    "timeMonth": 248,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2022-04-10": 18,
@@ -1850,7 +1851,7 @@
     "time": 6130,
     "timeDay": 4671,
     "timeWeek": 6049,
-    "timeMonth": 6683,
+    "timeMonth": 6667,
     "timeYear": 6130,
     "dailyMinutesDown": {
       "2022-04-10": 16,
@@ -1897,7 +1898,7 @@
     "time": 268,
     "timeDay": 157,
     "timeWeek": 214,
-    "timeMonth": 226,
+    "timeMonth": 225,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2022-01-14": 21,
@@ -1958,7 +1959,7 @@
     "time": 251,
     "timeDay": 146,
     "timeWeek": 229,
-    "timeMonth": 230,
+    "timeMonth": 229,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2022-06-12": 16,
@@ -1994,7 +1995,7 @@
     "time": 171,
     "timeDay": 108,
     "timeWeek": 140,
-    "timeMonth": 138,
+    "timeMonth": 137,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2022-01-14": 21,
@@ -2039,7 +2040,7 @@
     "time": 478,
     "timeDay": 432,
     "timeWeek": 439,
-    "timeMonth": 465,
+    "timeMonth": 466,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2022-05-17": 61,
@@ -2062,7 +2063,7 @@
     "time": 6425,
     "timeDay": 4296,
     "timeWeek": 5639,
-    "timeMonth": 6311,
+    "timeMonth": 6305,
     "timeYear": 6425,
     "dailyMinutesDown": {
       "2022-01-14": 21,
@@ -2083,7 +2084,7 @@
     "time": 7690,
     "timeDay": 7644,
     "timeWeek": 8058,
-    "timeMonth": 8001,
+    "timeMonth": 7991,
     "timeYear": 7690,
     "dailyMinutesDown": {
       "2022-05-23": 420,
@@ -2114,7 +2115,7 @@
     "time": 233,
     "timeDay": 148,
     "timeWeek": 215,
-    "timeMonth": 234,
+    "timeMonth": 233,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2022-06-17": 8
@@ -2154,7 +2155,7 @@
     "time": 7381,
     "timeDay": 7387,
     "timeWeek": 7402,
-    "timeMonth": 7440,
+    "timeMonth": 7446,
     "timeYear": 7381,
     "dailyMinutesDown": {
       "2022-05-22": 24,
@@ -2177,7 +2178,7 @@
     "time": 7381,
     "timeDay": 7387,
     "timeWeek": 7402,
-    "timeMonth": 7440,
+    "timeMonth": 7446,
     "timeYear": 7381,
     "dailyMinutesDown": {
       "2022-05-22": 24,
@@ -2200,7 +2201,7 @@
     "time": 248,
     "timeDay": 153,
     "timeWeek": 222,
-    "timeMonth": 232,
+    "timeMonth": 231,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2022-06-17": 8,
@@ -2222,7 +2223,7 @@
     "time": 660,
     "timeDay": 66,
     "timeWeek": 178,
-    "timeMonth": 178,
+    "timeMonth": 177,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2022-05-17": 58,
@@ -2247,7 +2248,7 @@
     "time": 229,
     "timeDay": 149,
     "timeWeek": 199,
-    "timeMonth": 206,
+    "timeMonth": 205,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2022-06-17": 8,
@@ -2273,15 +2274,15 @@
     "icon": "https://favicons.githubusercontent.com/pcdbrasil.com.br",
     "slug": "elagi-pcbr-kty",
     "status": "up",
-    "uptime": "98.18%",
+    "uptime": "98.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.91%",
-    "uptimeYear": "98.18%",
+    "uptimeYear": "98.19%",
     "time": 5828,
     "timeDay": 5632,
     "timeWeek": 5709,
-    "timeMonth": 5793,
+    "timeMonth": 5789,
     "timeYear": 5828,
     "dailyMinutesDown": {
       "2022-05-23": 419,
@@ -2311,7 +2312,7 @@
     "time": 6397,
     "timeDay": 4047,
     "timeWeek": 5462,
-    "timeMonth": 6069,
+    "timeMonth": 6050,
     "timeYear": 6397,
     "dailyMinutesDown": {
       "2022-06-17": 8,
@@ -2333,7 +2334,7 @@
     "time": 118,
     "timeDay": 27,
     "timeWeek": 106,
-    "timeMonth": 108,
+    "timeMonth": 107,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2022-05-17": 57,
@@ -2355,7 +2356,7 @@
     "time": 118,
     "timeDay": 27,
     "timeWeek": 106,
-    "timeMonth": 108,
+    "timeMonth": 107,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2022-05-17": 57,
@@ -2397,7 +2398,7 @@
     "time": 171,
     "timeDay": 108,
     "timeWeek": 140,
-    "timeMonth": 138,
+    "timeMonth": 137,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2022-01-14": 21,
@@ -2435,15 +2436,15 @@
     "icon": "https://favicons.githubusercontent.com/blog.egalite.com.br",
     "slug": "egali-blog-kty",
     "status": "up",
-    "uptime": "98.14%",
+    "uptime": "98.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "98.86%",
-    "uptimeYear": "98.14%",
+    "uptimeYear": "98.15%",
     "time": 705,
     "timeDay": 637,
     "timeWeek": 700,
-    "timeMonth": 715,
+    "timeMonth": 713,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2022-06-13": 23,
@@ -2476,7 +2477,7 @@
     "time": 244,
     "timeDay": 144,
     "timeWeek": 223,
-    "timeMonth": 233,
+    "timeMonth": 232,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2022-06-17": 8
@@ -2496,7 +2497,7 @@
     "time": 263,
     "timeDay": 209,
     "timeWeek": 249,
-    "timeMonth": 283,
+    "timeMonth": 282,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2022-06-17": 8,
@@ -2509,19 +2510,17 @@
     "icon": "https://favicons.githubusercontent.com/api.egalite.cl",
     "slug": "elagi-cl-api-kty",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 227,
     "timeDay": 134,
     "timeWeek": 253,
-    "timeMonth": 228,
+    "timeMonth": 227,
     "timeYear": 227,
-    "dailyMinutesDown": {
-      "2022-06-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "kty site",
@@ -2529,18 +2528,17 @@
     "icon": "https://favicons.githubusercontent.com/konecty.com",
     "slug": "kty-site",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 5985,
     "timeDay": 3796,
     "timeWeek": 5264,
-    "timeMonth": 5843,
+    "timeMonth": 5838,
     "timeYear": 5985,
     "dailyMinutesDown": {
-      "2022-06-17": 8,
       "2022-05-12": 59
     }
   },
@@ -2551,18 +2549,16 @@
     "slug": "kty-chate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
     "timeDay": 142,
     "timeWeek": 194,
     "timeMonth": 207,
     "timeYear": 208,
-    "dailyMinutesDown": {
-      "2022-06-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "kty flows",
@@ -2571,18 +2567,16 @@
     "slug": "kty-flows",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 118,
     "timeWeek": 142,
     "timeMonth": 149,
     "timeYear": 147,
-    "dailyMinutesDown": {
-      "2022-06-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "kty kty",
@@ -2591,17 +2585,16 @@
     "slug": "kty-kty",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 239,
     "timeDay": 166,
     "timeWeek": 208,
-    "timeMonth": 224,
+    "timeMonth": 223,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2022-06-17": 8,
       "2022-05-12": 43
     }
   },
@@ -2612,18 +2605,16 @@
     "slug": "kty-esqu-atendimento",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
     "timeDay": 107,
     "timeWeek": 163,
     "timeMonth": 140,
     "timeYear": 139,
-    "dailyMinutesDown": {
-      "2022-06-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "kty esqu api",
@@ -2632,18 +2623,16 @@
     "slug": "kty-esqu-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
     "timeDay": 113,
     "timeWeek": 146,
     "timeMonth": 157,
     "timeYear": 152,
-    "dailyMinutesDown": {
-      "2022-06-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "kty esqu konecty",
@@ -2652,18 +2641,16 @@
     "slug": "kty-esqu-konecty",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
     "timeDay": 109,
     "timeWeek": 160,
     "timeMonth": 136,
     "timeYear": 135,
-    "dailyMinutesDown": {
-      "2022-06-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portal tem poder quem age stie",
@@ -2671,18 +2658,18 @@
     "icon": "https://favicons.githubusercontent.com/comunidade.portaltempoderquemage.com.br",
     "slug": "portal-tem-poder-quem-age-stie",
     "status": "down",
-    "uptime": "96.80%",
+    "uptime": "96.69%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "10.67%",
-    "uptimeMonth": "79.44%",
-    "uptimeYear": "96.80%",
+    "uptimeWeek": "7.33%",
+    "uptimeMonth": "78.68%",
+    "uptimeYear": "96.69%",
     "time": 748,
     "timeDay": 0,
     "timeWeek": 599,
-    "timeMonth": 848,
+    "timeMonth": 861,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2022-06-17": 367,
+      "2022-06-17": 703,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
@@ -2698,18 +2685,16 @@
     "slug": "portal-tem-poder-quem-age-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 621,
     "timeDay": 467,
     "timeWeek": 681,
-    "timeMonth": 677,
+    "timeMonth": 681,
     "timeYear": 621,
-    "dailyMinutesDown": {
-      "2022-06-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Api - Portal tem poder quem age",
@@ -2718,18 +2703,16 @@
     "slug": "api-portal-tem-poder-quem-age",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
     "timeDay": 260,
     "timeWeek": 301,
-    "timeMonth": 340,
+    "timeMonth": 344,
     "timeYear": 285,
-    "dailyMinutesDown": {
-      "2022-06-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ciscontinuum site",
@@ -2745,7 +2728,7 @@
     "time": 658,
     "timeDay": 814,
     "timeWeek": 505,
-    "timeMonth": 517,
+    "timeMonth": 522,
     "timeYear": 658,
     "dailyMinutesDown": {
       "2022-04-03": 24,
@@ -2769,7 +2752,7 @@
     "time": 217,
     "timeDay": 224,
     "timeWeek": 226,
-    "timeMonth": 219,
+    "timeMonth": 221,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -2787,7 +2770,7 @@
     "time": 311,
     "timeDay": 589,
     "timeWeek": 393,
-    "timeMonth": 322,
+    "timeMonth": 326,
     "timeYear": 311,
     "dailyMinutesDown": {}
   },
@@ -2805,7 +2788,7 @@
     "time": 260,
     "timeDay": 282,
     "timeWeek": 244,
-    "timeMonth": 258,
+    "timeMonth": 259,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2022-01-13": 60
@@ -2825,7 +2808,7 @@
     "time": 251,
     "timeDay": 409,
     "timeWeek": 237,
-    "timeMonth": 217,
+    "timeMonth": 218,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2022-03-02": 20,
@@ -2846,7 +2829,7 @@
     "time": 222,
     "timeDay": 218,
     "timeWeek": 222,
-    "timeMonth": 223,
+    "timeMonth": 226,
     "timeYear": 222,
     "dailyMinutesDown": {}
   },
@@ -2864,7 +2847,7 @@
     "time": 209,
     "timeDay": 221,
     "timeWeek": 217,
-    "timeMonth": 220,
+    "timeMonth": 221,
     "timeYear": 209,
     "dailyMinutesDown": {}
   },
@@ -2882,7 +2865,7 @@
     "time": 298,
     "timeDay": 587,
     "timeWeek": 384,
-    "timeMonth": 333,
+    "timeMonth": 338,
     "timeYear": 298,
     "dailyMinutesDown": {}
   },
@@ -2900,7 +2883,7 @@
     "time": 421,
     "timeDay": 800,
     "timeWeek": 483,
-    "timeMonth": 564,
+    "timeMonth": 572,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2021-12-03": 63
@@ -2920,7 +2903,7 @@
     "time": 406,
     "timeDay": 730,
     "timeWeek": 396,
-    "timeMonth": 521,
+    "timeMonth": 531,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2022-05-30": 16,
@@ -2941,7 +2924,7 @@
     "time": 180,
     "timeDay": 337,
     "timeWeek": 212,
-    "timeMonth": 239,
+    "timeMonth": 244,
     "timeYear": 180,
     "dailyMinutesDown": {}
   },
@@ -2959,7 +2942,7 @@
     "time": 1306,
     "timeDay": 2181,
     "timeWeek": 1961,
-    "timeMonth": 1440,
+    "timeMonth": 1460,
     "timeYear": 1306,
     "dailyMinutesDown": {
       "2022-04-26": 43,
@@ -2983,7 +2966,7 @@
     "time": 327,
     "timeDay": 528,
     "timeWeek": 426,
-    "timeMonth": 384,
+    "timeMonth": 386,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2022-04-26": 24,
@@ -3007,7 +2990,7 @@
     "time": 478,
     "timeDay": 593,
     "timeWeek": 481,
-    "timeMonth": 554,
+    "timeMonth": 561,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2021-12-03": 68
