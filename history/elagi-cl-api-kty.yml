@@ -1,7 +1,7 @@
 url: https://api.egalite.cl
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-06-21T07:33:11.587Z
+status: up
+code: 200
+responseTime: 165
+lastUpdated: 2022-06-21T07:47:54.323Z
 startTime: Wed Mar 23 2022 21:55:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
