@@ -275,17 +275,6 @@ sites:
 
   - name: egali rumo (kty)
     url: https://rumo.konecty.com
-  
-  # (kty) sinicesp
-  - name: sinicesp_site kty (kty)
-    url: https://sinicesp.konecty.com/login
-
-  - name: sinicesp site (kty)
-    url: http://conexaopcd.com.br
-
-  - name: sinicesp site (kty)
-    url: http://www.conexaopcd.com.br
-
 
   # (kty) davog
   - name: davog kty (kty)
