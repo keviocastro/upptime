@@ -1,7 +1,7 @@
 url: https://rocketchat.foxter.konecty.com
-status: up
-code: 200
-responseTime: 167
-lastUpdated: 2022-07-03T23:15:49.785Z
+status: down
+code: 502
+responseTime: 6704
+lastUpdated: 2022-07-04T19:51:58.012Z
 startTime: Tue Nov 30 2021 02:33:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
