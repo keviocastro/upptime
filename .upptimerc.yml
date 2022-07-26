@@ -2,17 +2,6 @@ owner: keviocastro
 repo: upptime
 
 sites:
-# GIPI Sistemas
-# Sandbox environment
-#   - name: GIPI billet
-#     url: https://billet.app.gipisistemas.com.br/public/check/health
-#   - name: GIPI financial
-#     url: https://financial.app.gipisistemas.com.br/public/check/health
-#   - name: GIPI oauth
-#     url: https://oauth.app.gipisistemas.com.br/public/check/health
-#   - name: GIPI app
-#     url: https://app.gipisistemas.com.br
-
   - name: ky sicesp conpcd
     url: conexaopcd.com.br
     
@@ -390,6 +379,18 @@ sites:
     url: https://api.autoconect.com.br
   - name: Autoconect app
     url: https://admin.autoconect.com.br/login
+    
+    
+# GIPI Sistemas
+# Sandbox environment
+#   - name: GIPI billet
+#     url: https://billet.app.gipisistemas.com.br/public/check/health
+#   - name: GIPI financial
+#     url: https://financial.app.gipisistemas.com.br/public/check/health
+#   - name: GIPI oauth
+#     url: https://oauth.app.gipisistemas.com.br/public/check/health
+#   - name: GIPI app
+#     url: https://app.gipisistemas.com.br
 
 status-website:
   cname: upptime.solidops.cloud
