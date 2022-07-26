@@ -247,6 +247,10 @@ sites:
 
 
   # (kty) egali
+  
+  - name: ky egali api
+  - url: https://api.egalite.com.br
+  
   - name: egali empresa (kty)
     url: https://empresa.incluipcd.com.br/admin
 
