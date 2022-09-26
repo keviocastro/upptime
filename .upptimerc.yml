@@ -77,11 +77,11 @@ sites:
 
 
   # (kty) FX portal
-  - name: FX portal 1 (kty)
-    url: https://festivalfoxter.com.br
+  # - name: FX portal 1 (kty)
+  #   url: https://festivalfoxter.com.br
 
-  - name: FX portal 2 (kty)
-    url: https://megafestivalfoxter.com.br
+  # - name: FX portal 2 (kty)
+  #   url: https://megafestivalfoxter.com.br
 
   - name: FX portal 3 (kty)
     url: https://foxterciaimobiliaria.com.br
