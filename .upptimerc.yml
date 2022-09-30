@@ -263,8 +263,8 @@ sites:
   - name: egali flows (kty)
     url: https://egalite-flows.konecty.com
 
-  - name: egali integrations (kty)
-    url: https://egalite-integrations.konecty.com
+  # - name: egali integrations (kty)
+  #   url: https://egalite-integrations.konecty.com
 
   - name: egali site (kty)
     url: https://egalite.com.br
@@ -301,8 +301,8 @@ sites:
   - name:  elagi (kty)
     url: https://egalite.com.br
 
-  - name: egali int (kty)
-    url: https://egalite-integrations.konecty.com
+  # - name: egali int (kty)
+  #   url: https://egalite-integrations.konecty.com
 
   - name: egali flows (kty)
     url: https://egalite-flows.konecty.com
@@ -327,8 +327,8 @@ sites:
   - name: kty site
     url: https://konecty.com
 
-  - name: kty chate
-    url: https://chat.konecty.com
+  # - name: kty chate
+  #   url: https://chat.konecty.com
 
   - name: kty flows
     url: https://flows.konecty.com
