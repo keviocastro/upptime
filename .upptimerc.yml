@@ -231,11 +231,11 @@ sites:
     url: https://canoaspark.urbacon.com.br/simulador
 
   # (kty) grow
-  - name: grow kty (kty)
-    url: https://growplus.konecty.com
+  #   - name: grow kty (kty)
+  #     url: https://growplus.konecty.com
 
-  - name: grow site (kty)
-    url: https://iranilabs.galileu.io
+  #   - name: grow site (kty)
+  #     url: https://iranilabs.galileu.io
 
 
   # (kty) esquadria
