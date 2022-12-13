@@ -186,8 +186,8 @@ sites:
   - name: maedeuz kty  (kty)
     url: https://maededeus.konecty.com
   
-  - name: maedeuz site  (kty)
-    url: https://centroclinicomaededeus.med.br
+  # - name: maedeuz site  (kty)
+  #   url: https://centroclinicomaededeus.med.br
   
   # (kty) lugge
   - name: lugge glob  (kty)
