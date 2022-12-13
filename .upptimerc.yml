@@ -351,53 +351,51 @@ sites:
 
 
   # Sensi
-  # - name: Portal tem poder quem age stie
-  #   url: https://comunidade.portaltempoderquemage.com.br
-  # - name: Portal tem poder quem age app
-  #   url: https://app.portaltempoderquemage.com.br
-  # - name: Api - Portal tem poder quem age
-  #   url: https://api.portaltempoderquemage.com.br
-  # - name: Ciscontinuum site
-  #   url: https://ciscontinuum.com.br
-  # - name: Ciscontinuum app
-  #   url: https://app.ciscontinuum.com.br
-  # - name: Ciscontinuum api
-  #   url: https://api.ciscontinuum.com.br
-  # - name: Meu Social Post app
-  #   url: https://app.meusocialpost.app
-  # - name: Meu Social Post api
-  #   url: https://api.meusocialpost.app/auth/health
-  
-  # - name: Oferta play site
-  #   url: https://minhaconta.ofertaplay.com.br
-  # - name: Oferta play app
-  #   url: https://admin.ofertaplay.com.br
-  # - name: Oferta play api
-  #   url: https://api.ofertaplay.com.br/oauth/health
-  # - name: Simer pay site
-  #   url: https://simerpay.site.sensiconnect.io/minha-conta
-  # - name: Simer pay app
-  #   url: https://simerpay.admin.sensiconnect.io
-  # - name: Simer pay api
-  #   url: https://simerpay.api.sensiconnect.io/oauth/health
-  # - name: Autoconect site
-  #   url: https://autoconect.com.br
-  # - name: Autoconect api
-  #   url: https://api.autoconect.com.br
-  # - name: Autoconect app
-  #   url: https://admin.autoconect.com.br/login
-    
+  - name: Portal tem poder quem age stie
+    url: https://comunidade.portaltempoderquemage.com.br
+  - name: Portal tem poder quem age app
+    url: https://app.portaltempoderquemage.com.br
+  - name: Api - Portal tem poder quem age
+    url: https://api.portaltempoderquemage.com.br
+  - name: Ciscontinuum site
+    url: https://ciscontinuum.com.br
+  - name: Ciscontinuum app
+    url: https://app.ciscontinuum.com.br
+  - name: Ciscontinuum api
+    url: https://api.ciscontinuum.com.br
+  - name: Meu Social Post app
+    url: https://app.meusocialpost.app
+  - name: Meu Social Post api
+    url: https://api.meusocialpost.app/auth/health
+  - name: Oferta play site
+    url: https://minhaconta.ofertaplay.com.br
+  - name: Oferta play app
+    url: https://admin.ofertaplay.com.br
+  - name: Oferta play api
+    url: https://api.ofertaplay.com.br/oauth/health
+  - name: Simer pay site
+    url: https://simerpay.site.sensiconnect.io/minha-conta
+  - name: Simer pay app
+    url: https://simerpay.admin.sensiconnect.io
+  - name: Simer pay api
+     url: https://simerpay.api.sensiconnect.io/oauth/health
+  - name: Autoconect site
+    url: https://autoconect.com.br
+  - name: Autoconect api
+    url: https://api.autoconect.com.br
+  - name: Autoconect app
+    url: https://admin.autoconect.com.br/login
     
 # GIPI Sistemas
 # Sandbox environment
-#   - name: GIPI billet
-#     url: https://billet.app.gipisistemas.com.br/public/check/health
-#   - name: GIPI financial
-#     url: https://financial.app.gipisistemas.com.br/public/check/health
-#   - name: GIPI oauth
-#     url: https://oauth.app.gipisistemas.com.br/public/check/health
-#   - name: GIPI app
-#     url: https://app.gipisistemas.com.br
+  - name: GIPI billet
+    url: https://billet.app.gipisistemas.com.br/public/check/health
+  - name: GIPI financial
+    url: https://financial.app.gipisistemas.com.br/public/check/health
+  - name: GIPI oauth
+    url: https://oauth.app.gipisistemas.com.br/public/check/health
+  - name: GIPI app
+    url: https://app.gipisistemas.com.br
 
 status-website:
   cname: upptime.solidops.cloud
