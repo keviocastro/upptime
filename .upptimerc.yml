@@ -2,406 +2,406 @@ owner: keviocastro
 repo: upptime
 
 sites:
-
+  
   # Sinicesp 
   - name: ky sicesp conpcd
-    url: conexaopcd.com.br
-    
+  url: conexaopcd.com.br
+  
   - name: ky sicesp ky
-    url: sinicesp.konecty.com
-
+  url: sinicesp.konecty.com
+  
   # (kty) FX blog
   - name: FX blog (kty)
-    url: https://blog.foxterciaimobiliaria.com.br
-    
+  url: https://blog.foxterciaimobiliaria.com.br
+  
   - name: FX blog (kty)
-    url: https://foxter-blogeditor.konecty.com
+  url: https://foxter-blogeditor.konecty.com
   
   # (kty) FX services
   - name: FX ACTIVE CAMPAIN (kty)
-    url: https://foxter-activecampaign.konecty.com
-
+  url: https://foxter-activecampaign.konecty.com
+  
   - name: FX FLOWV2 (kty)
-    url: https://foxter-flows-v2.konecty.com
-
+  url: https://foxter-flows-v2.konecty.com
+  
   - name: FX MAILGUN (kty)
-    url: https://foxter-mailgun.konecty.com
-
+  url: https://foxter-mailgun.konecty.com
+  
   - name: FX PUSH (kty)
-    url: https://foxter-push.konecty.com
-
+  url: https://foxter-push.konecty.com
+  
   - name: FX INTEGRATIONS (kty)
-    url: https://foxter-integrations.konecty.com
-
+  url: https://foxter-integrations.konecty.com
+  
   - name: FX file server (kty)
-    url: https://foxter-downloads.konecty.com
-
+  url: https://foxter-downloads.konecty.com
+  
   - name: FX oportunity (kty)
-    url: https://foxter-opportunity-api.konecty.com/liveness
-
-
+  url: https://foxter-opportunity-api.konecty.com/liveness
+  
+  
   # (kty) FX alpha
   - name: FX ALPHA API (kty)
-    url: https://alpha-api.foxterciaimobiliaria.com.br
-
+  url: https://alpha-api.foxterciaimobiliaria.com.br
+  
   - name: FX ALPHA (kty)
-    url: https://alpha.foxterciaimobiliaria.com.br
-
-
+  url: https://alpha.foxterciaimobiliaria.com.br
+  
+  
   # (kty) FX backoffice
   - name: FX atendimento (kty)
-    url: https://foxter-atendimento.konecty.com
-
+  url: https://foxter-atendimento.konecty.com
+  
   - name: FX rocket (kty)
-    url: https://rocketchat.foxter.konecty.com
-
+  url: https://rocketchat.foxter.konecty.com
+  
   - name: FX oferta (kty)
-    url: https://ofertaativa.foxterciaimobiliaria.com.br
-
+  url: https://ofertaativa.foxterciaimobiliaria.com.br
+  
   - name: FX apps (kty)
-    url: https://foxter-apps.konecty.com
-
+  url: https://foxter-apps.konecty.com
+  
   - name: FX kty (kty)
-    url: https://foxter.konecty.com
-
+  url: https://foxter.konecty.com
+  
   - name: FX kty hom (kty)
-    url: https://foxter-hom.konecty.com
-
-
+  url: https://foxter-hom.konecty.com
+  
   # (kty) FX perdigueiro
   - name: FX perdigueiro amp (kty)
-    url: https://amp.perdigueiroimoveis.com.br
-
+  url: https://amp.perdigueiroimoveis.com.br
+  
   - name: FX perdigueiro (kty)
-    url: https://perdigueiroimoveis.com.br
-
-
+  url: https://perdigueiroimoveis.com.br
+  
+  
   # (kty) FX portal
   # - name: FX portal 1 (kty)
   #   url: https://festivalfoxter.com.br
-
+  
   # - name: FX portal 2 (kty)
   #   url: https://megafestivalfoxter.com.br
-
+  
   - name: FX portal 3 (kty)
-    url: https://foxterciaimobiliaria.com.br
-
+  url: https://foxterciaimobiliaria.com.br
+  
   - name: FX portal 4 (kty)
-    url: https://foxterciaimobiliaria.com.br
-
+  url: https://foxterciaimobiliaria.com.br
+  
   - name: FX portal api (kty)
-    url: https://api.foxterciaimobiliaria.com.br
-
+  url: https://api.foxterciaimobiliaria.com.br
+  
   - name: FX conteudos pages 4 (kty)
-    url: https://financiamento.foxterciaimobiliaria.com.br
-
+  url: https://financiamento.foxterciaimobiliaria.com.br
+  
   - name: FX corretor (kty)
-    url: https://conexao.foxterciaimobiliaria.com.br
-
+  url: https://conexao.foxterciaimobiliaria.com.br
+  
   - name: FX corretor (kty)
-    url: https://corretores.foxterciaimobiliaria.com.br
-
+  url: https://corretores.foxterciaimobiliaria.com.br
+  
   - name: FX net (kty)
-    url: https://foxter.net.br
-
+  url: https://foxter.net.br
+  
   - name: FX net (kty)
-    url: https://novidadeimobiliaria.com.br
-
+  url: https://novidadeimobiliaria.com.br
+  
   - name: FX net (kty)
-    url: https://novidadeimobiliaria.com.br
-
-
+  url: https://novidadeimobiliaria.com.br
+  
+  
   # (kty) AVS
   - name: AVS chat (kty)
-    url: https://chat.avus.com.br
-
+  url: https://chat.avus.com.br
+  
   - name: AVS integration (kty)
-    url: https://avus-integrations.konecty.com
-
-#   - name: AVS site  (kty)
-#     url: https://avus.com.br
+  url: https://avus-integrations.konecty.com
+  
+  #   - name: AVS site  (kty)
+  #     url: https://avus.com.br
   - name: AVS kty (kty)
-    url: https://avus.konecty.com
-
+  url: https://avus.konecty.com
+  
   - name: AVS api  (kty)
-    url: https://api.avus.com.br
-
+  url: https://api.avus.com.br
+  
   - name: AVS push api  (kty)
-    url: https://push-api.avus.com.br
-
+  url: https://push-api.avus.com.br
+  
   - name: AVS (kty)
-    url: https://avus.com.br
-
-    maxResponseTime: 8000
+  url: https://avus.com.br
+  
+  maxResponseTime: 8000
   - name: AVS card (kty)
-    url: https://pancorretora.avus.com.br
-
+  url: https://pancorretora.avus.com.br
+  
   - name: AVS rgsp (kty)
-    url: https://rgsp.avus.com.br
-
+  url: https://rgsp.avus.com.br
+  
   - name: AVS too (kty)
-    url: https://too.avus.com.br
-
+  url: https://too.avus.com.br
+  
   # Removed from client stack
   # - name: AVS portal saude (kty)
   #   url: https://portaldesaude.avus.com.br
-
+  
   - name: AVS app (kty)
-    url: https://app.avus.com.br
-
-
+  url: https://app.avus.com.br
+  
+  
   # (kty) zuk
   - name: zuk kty (kty)
-    url: https://zuckhan.konecty.com
-
+  url: https://zuckhan.konecty.com
+  
   - name: zuk site (kty)
-    url: https://zuckhan.com.br
-
-
+  url: https://zuckhan.com.br
+  
+  
   # (kty) urba
   - name: urba blog guaiabapark (kty)
-    url: https://blogguaibapark.urbacon.com.br
-
+  url: https://blogguaibapark.urbacon.com.br
+  
   - name: urba blog editor guaibapark (kty)
-    url: https://blogeditorguaibapark.urbacon.com.br
-
+  url: https://blogeditorguaibapark.urbacon.com.br
+  
   - name: urba blog (kty)
-    url: https://blog.urbacon.com.br
-
+  url: https://blog.urbacon.com.br
+  
   - name: urba blog editor (kty)
-    url: https://urbacon-blogeditor.konecty.com
-
+  url: https://urbacon-blogeditor.konecty.com
+  
   - name: urba chat (kty)
-    url: https://chat.urbacon.com.br
-
+  url: https://chat.urbacon.com.br
+  
   - name: urba atendimento (kty)
-    url: https://atendimento-urbacon.konecty.com
-
+  url: https://atendimento-urbacon.konecty.com
+  
   - name: urba integration (kty)
-    url: https://urbacon-integrations.konecty.com
-
+  url: https://urbacon-integrations.konecty.com
+  
   - name: urba kty (kty)
-    url: https://urbacon.konecty.com
-
+  url: https://urbacon.konecty.com
+  
   - name: urba site (kty)
-    url: https://urbacon.com.br
-
-
+  url: https://urbacon.com.br
+  
+  
   # (kty) sinisp
   - name: maedeuz kty  (kty)
-    url: https://maededeus.konecty.com
-
+  url: https://maededeus.konecty.com
+  
   - name: maedeuz site  (kty)
-    url: https://centroclinicomaededeus.med.br
-
-
+  url: https://centroclinicomaededeus.med.br
+  
+  
   # (kty) lugge
   - name: lugge glob  (kty)
-    url: https://blog.luagge.com.br
-
+  url: https://blog.luagge.com.br
+  
   - name: lugge glob editor  (kty)
-    url: https://luagge-blogeditor.konecty.com
-
+  url: https://luagge-blogeditor.konecty.com
+  
   - name: lugge kty  (kty)
-    url: https://luagge.konecty.com
-
+  url: https://luagge.konecty.com
+  
   - name: lugge site  (kty)
-    url: https://luagge.com.br
-
-
+  url: https://luagge.com.br
+  
+  
   # (kty) krystal
   - name: krystal kty (kty)
-    url: https://krystal.konecty.com
-
+  url: https://krystal.konecty.com
+  
   - name: krystal site (kty)
-    url: https://krystal.com.br
-
-
+  url: https://krystal.com.br
+  
+  
   # (kty) savar
   - name: savar kty (kty)
-    url: https://gruposavar.konecty.com
-
+  url: https://gruposavar.konecty.com
+  
   - name: savar site (kty)
-    url: https://gruposavar.com.br
-    
+  url: https://gruposavar.com.br
+  
   - name: Ca park adm (kty)
-    url: https://canoaspark.urbacon.com.br/admin
-    
+  url: https://canoaspark.urbacon.com.br/admin
+  
   - name: Ca park simulator (kty)
-    url: https://canoaspark.urbacon.com.br/simulador
-
+  url: https://canoaspark.urbacon.com.br/simulador
+  
   # (kty) grow
   #   - name: grow kty (kty)
   #     url: https://growplus.konecty.com
-
+  
   #   - name: grow site (kty)
   #     url: https://iranilabs.galileu.io
-
-
+  
+  
   # (kty) esquadria
   - name: esquadria atendiemnto (kty)
-    url: https://atendimento-prata.konecty.com
-
+  url: https://atendimento-prata.konecty.com
+  
   - name: esquadria kty (kty)
-    url: https://esquadriasprata.konecty.com
-
-
+  url: https://esquadriasprata.konecty.com
+  
+  
   # (kty) egali
   
   - name: ky egali api
-    url: https://api.egalite.com.br
+  url: https://api.egalite.com.br
   
   - name: egali empresa (kty)
-    url: https://empresa.incluipcd.com.br/admin
-
+  url: https://empresa.incluipcd.com.br/admin
+  
   - name: egali blog edtior (kty)
-    url: https://egalite-blogeditor.konecty.com
-
+  url: https://egalite-blogeditor.konecty.com
+  
   - name: egali kty (kty)
-    url: https://egalite.konecty.com
-
+  url: https://egalite.konecty.com
+  
   - name: egali flows (kty)
-    url: https://egalite-flows.konecty.com
-
+  url: https://egalite-flows.konecty.com
+  
   # - name: egali integrations (kty)
   #   url: https://egalite-integrations.konecty.com
-
+  
   - name: egali site (kty)
-    url: https://egalite.com.br
-
+  url: https://egalite.com.br
+  
   - name: egali incluipcd (kty)
-    url: https://incluipcd.com.br
-
+  url: https://incluipcd.com.br
+  
   - name: egali pcdbrasil (kty)
-    url: https://pcdbrasil.com.br
-
+  url: https://pcdbrasil.com.br
+  
   - name: egali rumo (kty)
-    url: https://rumo.konecty.com
-
+  url: https://rumo.konecty.com
+  
   # (kty) davog
   - name: davog kty (kty)
-    url: https://davoglio.konecty.com
-
+  url: https://davoglio.konecty.com
+  
   - name: davog representante (kty)
-    url: https://representantes.davoglio.konecty.com/
-
-
+  url: https://representantes.davoglio.konecty.com/
+  
+  
   - name:  elagi konecty (kty)
-    url: https://egalite.konecty.com
-
+  url: https://egalite.konecty.com
+  
   - name:  elagi pcbr (kty)
-    url: https://pcdbrasil.com.br
-
+  url: https://pcdbrasil.com.br
+  
   - name:  elagi incpcd (kty)
-    url: https://incluipcd.com.br
-
+  url: https://incluipcd.com.br
+  
   - name:  elagi (kty)
-    url: https://egalite.com.br
-
+  url: https://egalite.com.br
+  
   - name:  elagi (kty)
-    url: https://egalite.com.br
-
+  url: https://egalite.com.br
+  
   # - name: egali int (kty)
   #   url: https://egalite-integrations.konecty.com
-
+  
   - name: egali flows (kty)
-    url: https://egalite-flows.konecty.com
-
+  url: https://egalite-flows.konecty.com
+  
   - name: egali beditor (kty)
-    url: https://egalite-blogeditor.konecty.com
-
+  url: https://egalite-blogeditor.konecty.com
+  
   - name: egali blog (kty)
-    url: https://blog.egalite.com.br
-
+  url: https://blog.egalite.com.br
+  
   - name:  elagi-cl konecty (kty)
-    url: https://egalite-cl.konecty.com
-
+  url: https://egalite-cl.konecty.com
+  
   - name:  elagi-cl Portal (kty)
-    url: https://egalite.cl
-
+  url: https://egalite.cl
+  
   - name:  elagi-cl API (kty)
-    url: https://api.egalite.cl
-
-
+  url: https://api.egalite.cl
+  
+  
   # konecty
   - name: kty site
-    url: https://konecty.com
-
+  url: https://konecty.com
+  
   # - name: kty chate
   #   url: https://chat.konecty.com
-
+  
   - name: kty flows
-    url: https://flows.konecty.com
-
+  url: https://flows.konecty.com
+  
   - name: kty kty
-    url: https://konecty.konecty.com  
-   
+  url: https://konecty.konecty.com  
+  
   # No health check
   #- nmae: kty esqu webservice
   #  url: https://webservices-esquadriasprata.konecty.com/img/logo.png
-    
+  
   - name: kty esqu atendimento
-    url: https://atendimento-prata.konecty.com
-    
+  url: https://atendimento-prata.konecty.com
+  
   - name: kty esqu api
-    url: https://esquadriasprata-api.konecty.com
-   
+  url: https://esquadriasprata-api.konecty.com
+  
   - name: kty esqu konecty
-    url: https://esquadriasprata.konecty.com/login
-
-
+  url: https://esquadriasprata.konecty.com/login
+  
+  
   # Sensi
   - name: Portal tem poder quem age stie
-    url: https://comunidade.portaltempoderquemage.com.br
+  url: https://comunidade.portaltempoderquemage.com.br
   - name: Portal tem poder quem age app
-    url: https://app.portaltempoderquemage.com.br
+  url: https://app.portaltempoderquemage.com.br
   - name: Api - Portal tem poder quem age
-    url: https://api.portaltempoderquemage.com.br
+  url: https://api.portaltempoderquemage.com.br
   - name: Ciscontinuum site
-    url: https://ciscontinuum.com.br
+  url: https://ciscontinuum.com.br
   - name: Ciscontinuum app
-    url: https://app.ciscontinuum.com.br
+  url: https://app.ciscontinuum.com.br
   - name: Ciscontinuum api
-    url: https://api.ciscontinuum.com.br
+  url: https://api.ciscontinuum.com.br
   - name: Meu Social Post app
-    url: https://app.meusocialpost.app
+  url: https://app.meusocialpost.app
   - name: Meu Social Post api
-    url: https://api.meusocialpost.app/auth/health
+  url: https://api.meusocialpost.app/auth/health
   - name: Oferta play site
-    url: https://minhaconta.ofertaplay.com.br
+  url: https://minhaconta.ofertaplay.com.br
   - name: Oferta play app
-    url: https://admin.ofertaplay.com.br
+  url: https://admin.ofertaplay.com.br
   - name: Oferta play api
-    url: https://api.ofertaplay.com.br/oauth/health
+  url: https://api.ofertaplay.com.br/oauth/health
   - name: Simer pay site
-    url: https://simerpay.site.sensiconnect.io/minha-conta
+  url: https://simerpay.site.sensiconnect.io/minha-conta
   - name: Simer pay app
-    url: https://simerpay.admin.sensiconnect.io
+  url: https://simerpay.admin.sensiconnect.io
   - name: Simer pay api
-     url: https://simerpay.api.sensiconnect.io/oauth/health
+  url: https://simerpay.api.sensiconnect.io/oauth/health
   - name: Autoconect site
-    url: https://autoconect.com.br
+  url: https://autoconect.com.br
   - name: Autoconect api
-    url: https://api.autoconect.com.br
+  url: https://api.autoconect.com.br
   - name: Autoconect app
-    url: https://admin.autoconect.com.br/login
-    
-# GIPI Sistemas
-# Sandbox environment
+  url: https://admin.autoconect.com.br/login
+  
+  # GIPI Sistemas
+  # Sandbox environment
   - name: GIPI billet
-    url: https://billet.app.gipisistemas.com.br/public/check/health
+  url: https://billet.app.gipisistemas.com.br/public/check/health
   - name: GIPI financial
-    url: https://financial.app.gipisistemas.com.br/public/check/health
+  url: https://financial.app.gipisistemas.com.br/public/check/health
   - name: GIPI oauth
-    url: https://oauth.app.gipisistemas.com.br/public/check/health
+  url: https://oauth.app.gipisistemas.com.br/public/check/health
   - name: GIPI app
-    url: https://app.gipisistemas.com.br
-
-status-website:
-  cname: upptime.solidops.cloud
-  logoUrl: https://solidops.io/wp-content/themes/solidops/images/logo-header.png
-  introTitle: "**Upptime Solidops** Este é um monitor de saúde de aplicações web e apis mantidos por [solidops.io](https://solidops.io)"
-  name: "Upptime"
-
-i18n:
-  footer: This page is a [Solidops.io](https://solidops.io) page.
+  url: https://app.gipisistemas.com.br
+  
+  status-website:
+    cname: upptime.solidops.cloud
+    logoUrl: https://solidops.io/wp-content/themes/solidops/images/logo-header.png
+    introTitle: "**Upptime Solidops** Este é um monitor de saúde de aplicações web e apis mantidos por [solidops.io](https://solidops.io)"
+    name: "Upptime"
+    
+    i18n:
+      footer: This page is a [Solidops.io](https://solidops.io) page.
+      
