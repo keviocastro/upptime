@@ -127,7 +127,7 @@ sites:
   
   - name: AVS (kty)
     url: https://avus.com.br
-    maxResponseTime: 8000
+    maxResponseTime: 10000
   
   - name: AVS card (kty)
     url: https://pancorretora.avus.com.br
