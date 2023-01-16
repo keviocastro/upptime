@@ -1,7 +1,7 @@
 url: https://api.ciscontinuum.com.br
-status: up
-code: 200
-responseTime: 205
-lastUpdated: 2023-01-15T23:16:32.206Z
+status: down
+code: 502
+responseTime: 351
+lastUpdated: 2023-01-16T11:59:02.597Z
 startTime: Tue Dec 13 2022 23:33:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
