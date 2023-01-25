@@ -189,18 +189,18 @@ sites:
   # - name: maedeuz site  (kty)
   #   url: https://centroclinicomaededeus.med.br
   
-  # (kty) lugge
-  - name: lugge glob  (kty)
-    url: https://blog.luagge.com.br
+#   # (kty) lugge
+#   - name: lugge glob  (kty)
+#     url: https://blog.luagge.com.br
   
-  - name: lugge glob editor  (kty)
-    url: https://luagge-blogeditor.konecty.com
+#   - name: lugge glob editor  (kty)
+#     url: https://luagge-blogeditor.konecty.com
   
-  - name: lugge kty  (kty)
-    url: https://luagge.konecty.com
+#   - name: lugge kty  (kty)
+#     url: https://luagge.konecty.com
   
-  - name: lugge site  (kty)
-    url: https://luagge.com.br
+#   - name: lugge site  (kty)
+#     url: https://luagge.com.br
   
   # (kty) krystal
   - name: krystal kty (kty)
