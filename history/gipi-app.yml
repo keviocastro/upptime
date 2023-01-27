@@ -1,7 +1,7 @@
 url: https://app.gipisistemas.com.br
-status: up
-code: 200
-responseTime: 216
-lastUpdated: 2023-01-26T23:17:04.718Z
+status: down
+code: 503
+responseTime: 732
+lastUpdated: 2023-01-27T04:46:02.006Z
 startTime: Tue Dec 13 2022 23:34:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
