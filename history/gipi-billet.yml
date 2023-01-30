@@ -1,7 +1,7 @@
 url: https://billet.app.gipisistemas.com.br/public/check/health
-status: up
-code: 200
-responseTime: 526
-lastUpdated: 2023-01-29T23:06:41.108Z
+status: down
+code: 503
+responseTime: 355
+lastUpdated: 2023-01-30T23:00:02.166Z
 startTime: Tue Dec 13 2022 23:34:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
