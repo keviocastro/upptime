@@ -1,7 +1,7 @@
 url: https://push-api.avus.com.br
-status: down
-code: 404
-responseTime: 145
-lastUpdated: 2023-03-05T23:04:26.765Z
+status: up
+code: 200
+responseTime: 294
+lastUpdated: 2023-03-06T12:27:31.801Z
 startTime: Tue Nov 30 2021 03:19:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
