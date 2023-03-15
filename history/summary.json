@@ -136,7 +136,7 @@
     "uptime": "97.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.14%",
-    "uptimeMonth": "82.61%",
+    "uptimeMonth": "82.71%",
     "uptimeYear": "96.46%",
     "time": 346,
     "timeDay": 102,
@@ -204,8 +204,7 @@
       "2022-07-02": 20,
       "2022-06-30": 98,
       "2022-06-29": 18,
-      "2022-06-21": 25,
-      "2022-03-15": 94
+      "2022-06-21": 25
     }
   },
   {
@@ -216,7 +215,7 @@
     "status": "up",
     "uptime": "99.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.27%",
+    "uptimeWeek": "60.69%",
     "uptimeMonth": "86.96%",
     "uptimeYear": "98.88%",
     "time": 256,
@@ -244,7 +243,7 @@
     "status": "up",
     "uptime": "99.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.18%",
+    "uptimeWeek": "60.60%",
     "uptimeMonth": "86.94%",
     "uptimeYear": "98.86%",
     "time": 253,
@@ -573,8 +572,7 @@
       "2022-05-24": 21,
       "2022-05-12": 46,
       "2022-05-04": 27,
-      "2022-04-29": 18,
-      "2022-03-15": 50
+      "2022-04-29": 18
     }
   },
   {
@@ -637,7 +635,7 @@
     "status": "up",
     "uptime": "94.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "58.74%",
+    "uptimeWeek": "59.17%",
     "uptimeMonth": "86.59%",
     "uptimeYear": "93.62%",
     "time": 1730,
@@ -754,7 +752,7 @@
     "slug": "fx-portal-api-kty",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "40.03%",
+    "uptimeDay": "42.99%",
     "uptimeWeek": "48.49%",
     "uptimeMonth": "88.15%",
     "uptimeYear": "98.88%",
@@ -865,7 +863,7 @@
     "status": "up",
     "uptime": "99.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.92%",
+    "uptimeWeek": "83.35%",
     "uptimeMonth": "92.71%",
     "uptimeYear": "99.05%",
     "time": 295,
@@ -891,7 +889,7 @@
     "status": "up",
     "uptime": "99.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.92%",
+    "uptimeWeek": "83.35%",
     "uptimeMonth": "92.71%",
     "uptimeYear": "99.05%",
     "time": 295,
@@ -917,7 +915,7 @@
     "status": "up",
     "uptime": "99.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.93%",
+    "uptimeWeek": "83.35%",
     "uptimeMonth": "92.71%",
     "uptimeYear": "99.05%",
     "time": 295,
@@ -1083,7 +1081,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/avus.com.br.ico",
     "slug": "avs-kty",
     "status": "up",
-    "uptime": "92.66%",
+    "uptime": "92.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2319,7 +2317,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.egalite.com.br.ico",
     "slug": "egali-blog-kty",
     "status": "up",
-    "uptime": "98.19%",
+    "uptime": "98.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2469,8 +2467,8 @@
     "status": "up",
     "uptime": "98.94%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "43.34%",
-    "uptimeMonth": "86.96%",
+    "uptimeWeek": "42.90%",
+    "uptimeMonth": "86.86%",
     "uptimeYear": "98.87%",
     "time": 178,
     "timeDay": 101,
@@ -2478,7 +2476,8 @@
     "timeMonth": 131,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2023-03-14": 1420,
+      "2023-03-15": 23,
+      "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
       "2023-03-11": 1412,
@@ -2592,11 +2591,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/comunidade.portaltempoderquemage.com.br.ico",
     "slug": "portal-tem-poder-quem-age-stie",
     "status": "up",
-    "uptime": "86.16%",
+    "uptime": "86.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.16%",
+    "uptimeYear": "86.17%",
     "time": 794,
     "timeDay": 1099,
     "timeWeek": 872,
@@ -2960,11 +2959,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/billet.app.gipisistemas.com.br.ico",
     "slug": "gipi-billet",
     "status": "up",
-    "uptime": "72.39%",
+    "uptime": "72.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.98%",
+    "uptimeYear": "73.03%",
     "time": 398,
     "timeDay": 867,
     "timeWeek": 464,
@@ -3010,8 +3009,7 @@
       "2022-03-19": 1440,
       "2022-03-18": 946,
       "2022-03-17": 740,
-      "2022-03-16": 779,
-      "2022-03-15": 976
+      "2022-03-16": 779
     }
   },
   {
@@ -3024,7 +3022,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.71%",
+    "uptimeYear": "76.76%",
     "time": 341,
     "timeDay": 227,
     "timeWeek": 306,
@@ -3069,8 +3067,7 @@
       "2022-03-24": 739,
       "2022-03-23": 99,
       "2022-03-17": 69,
-      "2022-03-16": 30,
-      "2022-03-15": 851
+      "2022-03-16": 30
     }
   },
   {
@@ -3079,11 +3076,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/oauth.app.gipisistemas.com.br.ico",
     "slug": "gipi-oauth",
     "status": "up",
-    "uptime": "72.95%",
+    "uptime": "72.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "62.51%",
     "uptimeMonth": "76.98%",
-    "uptimeYear": "73.55%",
+    "uptimeYear": "73.59%",
     "time": 329,
     "timeDay": 378,
     "timeWeek": 363,
@@ -3126,8 +3123,7 @@
       "2022-06-06": 641,
       "2022-06-05": 1440,
       "2022-06-04": 1049,
-      "2022-04-25": 498,
-      "2022-03-15": 867
+      "2022-04-25": 498
     }
   },
   {
@@ -3140,7 +3136,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.79%",
+    "uptimeYear": "84.82%",
     "time": 335,
     "timeDay": 211,
     "timeWeek": 343,
@@ -3166,8 +3162,7 @@
       "2022-06-17": 730,
       "2022-06-15": 754,
       "2022-06-14": 1440,
-      "2022-06-13": 299,
-      "2022-03-15": 867
+      "2022-06-13": 299
     }
   }
 ]
