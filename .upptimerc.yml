@@ -65,9 +65,10 @@ sites:
   - name: FX kty hom (kty)
     url: https://foxter-hom.konecty.com
   
+  # Inactive   
   # (kty) FX perdigueiro
-  - name: FX perdigueiro amp (kty)
-    url: https://amp.perdigueiroimoveis.com.br
+  #- name: FX perdigueiro amp (kty)
+  #url: https://amp.perdigueiroimoveis.com.br
   
   - name: FX perdigueiro (kty)
     url: https://perdigueiroimoveis.com.br
@@ -96,14 +97,8 @@ sites:
   
   - name: FX corretor (kty)
     url: https://corretores.foxterciaimobiliaria.com.br
-  
-  - name: FX net (kty)
-    url: https://foxter.net.br
-  
-  - name: FX net (kty)
-    url: https://novidadeimobiliaria.com.br
-  
-  - name: FX net (kty)
+   
+  - name: FX novidade (kty)
     url: https://novidadeimobiliaria.com.br
   
   
@@ -111,8 +106,8 @@ sites:
   - name: AVS chat (kty)
     url: https://chat.avus.com.br
   
-  - name: AVS integration (kty)
-    url: https://avus-integrations.konecty.com
+#  - name: AVS integration (kty)
+#    url: https://avus-integrations.konecty.com
   
   #   - name: AVS site  (kty)
   #     url: https://avus.com.br
