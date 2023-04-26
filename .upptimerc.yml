@@ -119,6 +119,9 @@ sites:
   
   - name: AVS push api  (kty)
     url: https://push-api.avus.com.br
+
+  - name: AVS services  (NodeRed)
+    url: https://servicos.avus.com.br
   
   - name: AVS (kty)
     url: https://avus.com.br
