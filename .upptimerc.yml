@@ -70,8 +70,8 @@ sites:
   #- name: FX perdigueiro amp (kty)
   #url: https://amp.perdigueiroimoveis.com.br
   
-  - name: FX perdigueiro (kty)
-    url: https://perdigueiroimoveis.com.br
+  #- name: FX perdigueiro (kty)
+  #url: https://perdigueiroimoveis.com.br
   
   # (kty) FX portal
   # - name: FX portal 1 (kty)
