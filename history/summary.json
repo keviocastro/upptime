@@ -332,8 +332,7 @@
       "2022-05-12": 46,
       "2022-05-09": 752,
       "2022-05-08": 1440,
-      "2022-05-07": 1277,
-      "2022-05-05": 28
+      "2022-05-07": 1277
     }
   },
   {
@@ -442,7 +441,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rocketchat.foxter.konecty.com.ico",
     "slug": "fx-rocket-kty",
     "status": "up",
-    "uptime": "94.10%",
+    "uptime": "94.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "62.79%",
@@ -825,12 +824,12 @@
     "slug": "avs-kty-kty",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "94.96%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.66%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
     "time": 221,
-    "timeDay": 83,
+    "timeDay": 95,
     "timeWeek": 155,
     "timeMonth": 183,
     "timeYear": 231,
@@ -924,8 +923,7 @@
       "2022-07-08": 18,
       "2022-06-30": 21,
       "2022-05-21": 28,
-      "2022-05-06": 29,
-      "2022-05-05": 21
+      "2022-05-06": 29
     }
   },
   {
@@ -1117,7 +1115,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zuckhan.konecty.com.ico",
     "slug": "zuk-kty-kty",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1300,7 +1298,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.10%",
+    "uptimeYear": "98.11%",
     "time": 189,
     "timeDay": 254,
     "timeWeek": 160,
@@ -1317,8 +1315,7 @@
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
-      "2022-05-06": 1440,
-      "2022-05-05": 1440
+      "2022-05-06": 1440
     }
   },
   {
@@ -1517,11 +1514,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/canoaspark.urbacon.com.br.ico",
     "slug": "ca-park-adm-kty",
     "status": "up",
-    "uptime": "98.13%",
+    "uptime": "98.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.47%",
+    "uptimeYear": "98.48%",
     "time": 597,
     "timeDay": 571,
     "timeWeek": 542,
@@ -1536,8 +1533,7 @@
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
-      "2022-05-06": 1440,
-      "2022-05-05": 1440
+      "2022-05-06": 1440
     }
   },
   {
@@ -1550,7 +1546,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.39%",
+    "uptimeYear": "98.40%",
     "time": 8169,
     "timeDay": 8617,
     "timeWeek": 8256,
@@ -1566,8 +1562,7 @@
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
-      "2022-05-06": 1440,
-      "2022-05-05": 1440
+      "2022-05-06": 1440
     }
   },
   {
@@ -2304,7 +2299,7 @@
     "uptime": "89.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "30.56%",
+    "uptimeMonth": "30.75%",
     "uptimeYear": "87.33%",
     "time": 173,
     "timeDay": 145,
@@ -2473,11 +2468,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/comunidade.portaltempoderquemage.com.br.ico",
     "slug": "portal-tem-poder-quem-age-stie",
     "status": "up",
-    "uptime": "91.13%",
+    "uptime": "91.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.13%",
+    "uptimeYear": "91.14%",
     "time": 801,
     "timeDay": 522,
     "timeWeek": 814,
@@ -2882,7 +2877,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.81%",
+    "uptimeYear": "89.82%",
     "time": 355,
     "timeDay": 222,
     "timeWeek": 391,
@@ -2922,11 +2917,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/oauth.app.gipisistemas.com.br.ico",
     "slug": "gipi-oauth",
     "status": "up",
-    "uptime": "79.61%",
+    "uptime": "79.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "85.74%",
-    "uptimeYear": "80.67%",
+    "uptimeYear": "80.68%",
     "time": 333,
     "timeDay": 213,
     "timeWeek": 360,
@@ -2987,7 +2982,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.68%",
+    "uptimeYear": "90.69%",
     "time": 341,
     "timeDay": 230,
     "timeWeek": 312,
