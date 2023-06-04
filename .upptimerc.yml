@@ -337,6 +337,8 @@ sites:
   
   
   # Sensi
+  - name: IX app
+    url: https://api.comunidadeleo.com.br/auth/health
   - name: Portal tem poder quem age stie
     url: https://comunidade.portaltempoderquemage.com.br
 
