@@ -371,7 +371,7 @@
     "timeDay": 559,
     "timeWeek": 387,
     "timeMonth": 469,
-    "timeYear": 1433,
+    "timeYear": 1423,
     "dailyMinutesDown": {
       "2023-01-05": 44,
       "2022-07-02": 20,
@@ -492,7 +492,7 @@
     "timeDay": 172,
     "timeWeek": 200,
     "timeMonth": 218,
-    "timeYear": 261,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2022-07-02": 20,
       "2022-06-30": 98,
@@ -593,7 +593,7 @@
     "timeDay": 396,
     "timeWeek": 271,
     "timeMonth": 282,
-    "timeYear": 288,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2023-06-07": 28,
       "2023-03-10": 27,
@@ -691,7 +691,7 @@
     "timeDay": 65,
     "timeWeek": 5733,
     "timeMonth": 3699,
-    "timeYear": 3541,
+    "timeYear": 3549,
     "dailyMinutesDown": {
       "2023-03-11": 22,
       "2023-03-10": 30,
@@ -714,7 +714,7 @@
     "timeDay": 3038,
     "timeWeek": 2540,
     "timeMonth": 1782,
-    "timeYear": 2082,
+    "timeYear": 2086,
     "dailyMinutesDown": {
       "2023-03-11": 20,
       "2022-07-09": 27,
@@ -738,7 +738,7 @@
     "timeDay": 3038,
     "timeWeek": 2540,
     "timeMonth": 1782,
-    "timeYear": 2082,
+    "timeYear": 2086,
     "dailyMinutesDown": {
       "2023-03-11": 20,
       "2022-07-09": 27,
@@ -942,7 +942,7 @@
     "timeDay": 7645,
     "timeWeek": 7506,
     "timeMonth": 7660,
-    "timeYear": 7639,
+    "timeYear": 7640,
     "dailyMinutesDown": {
       "2023-05-31": 1109,
       "2023-05-30": 1440,
@@ -1017,7 +1017,7 @@
     "timeDay": 6650,
     "timeWeek": 6634,
     "timeMonth": 6739,
-    "timeYear": 6605,
+    "timeYear": 6606,
     "dailyMinutesDown": {
       "2022-06-30": 21
     }
@@ -1037,7 +1037,7 @@
     "timeDay": 6883,
     "timeWeek": 6789,
     "timeMonth": 6823,
-    "timeYear": 6647,
+    "timeYear": 6648,
     "dailyMinutesDown": {
       "2022-06-30": 21
     }
@@ -1057,7 +1057,7 @@
     "timeDay": 6623,
     "timeWeek": 6646,
     "timeMonth": 6604,
-    "timeYear": 6539,
+    "timeYear": 6541,
     "dailyMinutesDown": {
       "2022-12-20": 19,
       "2022-06-30": 21
@@ -1172,7 +1172,7 @@
     "timeDay": 700,
     "timeWeek": 658,
     "timeMonth": 731,
-    "timeYear": 713,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2023-01-25": 87,
       "2023-01-24": 2,
@@ -1199,7 +1199,7 @@
     "timeDay": 789,
     "timeWeek": 703,
     "timeMonth": 784,
-    "timeYear": 802,
+    "timeYear": 803,
     "dailyMinutesDown": {
       "2023-01-25": 57,
       "2023-01-24": 2,
@@ -1392,7 +1392,7 @@
     "timeDay": 217,
     "timeWeek": 189,
     "timeMonth": 229,
-    "timeYear": 225,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2023-01-25": 58,
       "2023-01-24": 2,
@@ -1778,7 +1778,7 @@
     "timeDay": 6186,
     "timeWeek": 6000,
     "timeMonth": 6181,
-    "timeYear": 7674,
+    "timeYear": 7672,
     "dailyMinutesDown": {
       "2023-01-25": 59,
       "2023-01-24": 1,
@@ -1830,7 +1830,7 @@
     "timeDay": 251,
     "timeWeek": 191,
     "timeMonth": 209,
-    "timeYear": 225,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2023-01-25": 59,
       "2023-01-24": 1,
@@ -1850,11 +1850,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 244,
+    "time": 182,
     "timeDay": 254,
     "timeWeek": 171,
     "timeMonth": 170,
-    "timeYear": 181,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2023-01-25": 116,
       "2023-01-24": 1,
@@ -2091,7 +2091,7 @@
     "timeDay": 358,
     "timeWeek": 386,
     "timeMonth": 348,
-    "timeYear": 410,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2023-01-25": 60,
       "2023-01-24": 0,
@@ -2140,18 +2140,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/egalite.cl.ico",
     "slug": "elagi-cl-portal-kty",
     "status": "down",
-    "uptime": "96.49%",
+    "uptime": "96.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.32%",
-    "uptimeYear": "95.70%",
+    "uptimeMonth": "50.22%",
+    "uptimeYear": "95.69%",
     "time": 260,
     "timeDay": 240,
     "timeWeek": 178,
     "timeMonth": 235,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2023-06-15": 1396,
+      "2023-06-16": 2,
+      "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
@@ -2187,15 +2188,16 @@
     "uptime": "96.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.32%",
-    "uptimeYear": "95.82%",
+    "uptimeMonth": "50.22%",
+    "uptimeYear": "95.81%",
     "time": 223,
     "timeDay": 155,
     "timeWeek": 191,
     "timeMonth": 177,
-    "timeYear": 223,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-06-15": 1396,
+      "2023-06-16": 2,
+      "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
@@ -2234,7 +2236,7 @@
     "timeDay": 6005,
     "timeWeek": 5879,
     "timeMonth": 5766,
-    "timeYear": 5796,
+    "timeYear": 5793,
     "dailyMinutesDown": {
       "2023-05-03": 766,
       "2023-05-02": 1440,
@@ -2454,7 +2456,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.86%",
+    "uptimeYear": "95.87%",
     "time": 823,
     "timeDay": 619,
     "timeWeek": 818,
@@ -2468,8 +2470,7 @@
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
-      "2022-06-17": 1440,
-      "2022-06-16": 1440
+      "2022-06-17": 1440
     }
   },
   {
@@ -2509,7 +2510,7 @@
     "timeDay": 178,
     "timeWeek": 302,
     "timeMonth": 322,
-    "timeYear": 328,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2022-07-02": 21,
       "2022-06-30": 91,
@@ -2521,19 +2522,19 @@
     "url": "https://ciscontinuum.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/ciscontinuum.com.br.ico",
     "slug": "ciscontinuum-site",
-    "status": "down",
-    "uptime": "97.02%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "88.64%",
-    "uptimeYear": "98.06%",
-    "time": 962,
-    "timeDay": 349,
-    "timeWeek": 486,
-    "timeMonth": 2016,
-    "timeYear": 1019,
+    "status": "up",
+    "uptime": "97.01%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "88.56%",
+    "uptimeYear": "98.05%",
+    "time": 964,
+    "timeDay": 1057,
+    "timeWeek": 554,
+    "timeMonth": 2013,
+    "timeYear": 1023,
     "dailyMinutesDown": {
-      "2023-06-15": 6,
+      "2023-06-15": 39,
       "2023-06-12": 30,
       "2023-06-05": 87,
       "2023-06-01": 84,
@@ -2584,11 +2585,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "93.90%",
-    "time": 450,
-    "timeDay": 412,
-    "timeWeek": 895,
-    "timeMonth": 686,
-    "timeYear": 485,
+    "time": 452,
+    "timeDay": 474,
+    "timeWeek": 863,
+    "timeMonth": 683,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2023-05-31": 16,
       "2023-05-04": 54,
@@ -2663,7 +2664,7 @@
     "timeDay": 142,
     "timeWeek": 191,
     "timeMonth": 186,
-    "timeYear": 216,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2022-09-26": 131
     }
@@ -2723,7 +2724,7 @@
     "timeDay": 123,
     "timeWeek": 306,
     "timeMonth": 306,
-    "timeYear": 353,
+    "timeYear": 352,
     "dailyMinutesDown": {}
   },
   {
@@ -2777,7 +2778,7 @@
     "timeDay": 1719,
     "timeWeek": 2200,
     "timeMonth": 2052,
-    "timeYear": 1356,
+    "timeYear": 1353,
     "dailyMinutesDown": {}
   },
   {
@@ -2795,7 +2796,7 @@
     "timeDay": 306,
     "timeWeek": 437,
     "timeMonth": 406,
-    "timeYear": 407,
+    "timeYear": 408,
     "dailyMinutesDown": {}
   },
   {
@@ -2813,7 +2814,7 @@
     "timeDay": 214,
     "timeWeek": 540,
     "timeMonth": 449,
-    "timeYear": 469,
+    "timeYear": 470,
     "dailyMinutesDown": {}
   },
   {
@@ -2822,7 +2823,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/billet.app.gipisistemas.com.br.ico",
     "slug": "gipi-billet",
     "status": "up",
-    "uptime": "86.34%",
+    "uptime": "86.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2860,7 +2861,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/financial.app.gipisistemas.com.br.ico",
     "slug": "gipi-financial",
     "status": "up",
-    "uptime": "87.52%",
+    "uptime": "87.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
