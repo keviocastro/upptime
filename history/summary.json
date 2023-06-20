@@ -374,7 +374,7 @@
     "timeDay": 577,
     "timeWeek": 418,
     "timeMonth": 473,
-    "timeYear": 1368,
+    "timeYear": 1358,
     "dailyMinutesDown": {
       "2023-01-05": 44,
       "2022-07-02": 20,
@@ -398,7 +398,7 @@
     "timeDay": 334,
     "timeWeek": 205,
     "timeMonth": 221,
-    "timeYear": 263,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2023-05-01": 877,
       "2023-04-30": 1429,
@@ -545,7 +545,7 @@
     "timeDay": 387,
     "timeWeek": 261,
     "timeMonth": 286,
-    "timeYear": 299,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2023-04-25": 887,
       "2023-04-24": 1440,
@@ -667,7 +667,7 @@
     "timeDay": 384,
     "timeWeek": 193,
     "timeMonth": 207,
-    "timeYear": 229,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2023-03-14": 841,
       "2023-03-13": 1440,
@@ -695,7 +695,7 @@
     "timeDay": 157,
     "timeWeek": 3842,
     "timeMonth": 3903,
-    "timeYear": 3560,
+    "timeYear": 3553,
     "dailyMinutesDown": {
       "2023-03-11": 22,
       "2023-03-10": 30,
@@ -718,7 +718,7 @@
     "timeDay": 310,
     "timeWeek": 3026,
     "timeMonth": 1858,
-    "timeYear": 2095,
+    "timeYear": 2099,
     "dailyMinutesDown": {
       "2023-03-11": 20,
       "2022-07-09": 27,
@@ -742,7 +742,7 @@
     "timeDay": 310,
     "timeWeek": 3026,
     "timeMonth": 1858,
-    "timeYear": 2095,
+    "timeYear": 2099,
     "dailyMinutesDown": {
       "2023-03-11": 20,
       "2022-07-09": 27,
@@ -937,18 +937,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/avus.com.br.ico",
     "slug": "avs-kty",
     "status": "up",
-    "uptime": "92.40%",
+    "uptime": "92.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.07%",
-    "uptimeMonth": "71.34%",
+    "uptimeWeek": "84.00%",
+    "uptimeMonth": "71.32%",
     "uptimeYear": "91.73%",
     "time": 7695,
     "timeDay": 7671,
     "timeWeek": 7877,
     "timeMonth": 7769,
-    "timeYear": 7666,
+    "timeYear": 7667,
     "dailyMinutesDown": {
-      "2023-06-20": 1395,
+      "2023-06-20": 1403,
       "2023-06-19": 210,
       "2023-05-31": 1109,
       "2023-05-30": 1440,
@@ -1023,7 +1023,7 @@
     "timeDay": 7659,
     "timeWeek": 7191,
     "timeMonth": 6868,
-    "timeYear": 6638,
+    "timeYear": 6640,
     "dailyMinutesDown": {
       "2023-06-19": 17,
       "2022-06-30": 21
@@ -1044,7 +1044,7 @@
     "timeDay": 6685,
     "timeWeek": 8009,
     "timeMonth": 7099,
-    "timeYear": 6695,
+    "timeYear": 6696,
     "dailyMinutesDown": {
       "2023-06-19": 15,
       "2022-06-30": 21
@@ -1065,7 +1065,7 @@
     "timeDay": 6601,
     "timeWeek": 6720,
     "timeMonth": 6627,
-    "timeYear": 6558,
+    "timeYear": 6559,
     "dailyMinutesDown": {
       "2022-12-20": 19,
       "2022-06-30": 21
@@ -1180,7 +1180,7 @@
     "timeDay": 597,
     "timeWeek": 739,
     "timeMonth": 707,
-    "timeYear": 715,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2023-01-25": 87,
       "2023-01-24": 2,
@@ -1423,7 +1423,7 @@
     "timeDay": 7400,
     "timeWeek": 7378,
     "timeMonth": 7326,
-    "timeYear": 7782,
+    "timeYear": 7781,
     "dailyMinutesDown": {
       "2023-01-25": 95,
       "2023-01-24": 2,
@@ -1513,7 +1513,7 @@
     "timeDay": 8359,
     "timeWeek": 8046,
     "timeMonth": 8392,
-    "timeYear": 8295,
+    "timeYear": 8297,
     "dailyMinutesDown": {
       "2023-01-25": 58,
       "2023-01-24": 1,
@@ -1734,7 +1734,7 @@
     "timeDay": 246,
     "timeWeek": 293,
     "timeMonth": 355,
-    "timeYear": 346,
+    "timeYear": 345,
     "dailyMinutesDown": {
       "2023-01-25": 59,
       "2023-01-24": 1,
@@ -1757,7 +1757,7 @@
     "timeDay": 386,
     "timeWeek": 992,
     "timeMonth": 4951,
-    "timeYear": 6222,
+    "timeYear": 6223,
     "dailyMinutesDown": {
       "2023-02-17": 882,
       "2023-02-16": 67,
@@ -1786,7 +1786,7 @@
     "timeDay": 6112,
     "timeWeek": 6393,
     "timeMonth": 6267,
-    "timeYear": 7652,
+    "timeYear": 7651,
     "dailyMinutesDown": {
       "2023-01-25": 59,
       "2023-01-24": 1,
@@ -2098,7 +2098,7 @@
     "timeDay": 465,
     "timeWeek": 327,
     "timeMonth": 352,
-    "timeYear": 405,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2023-01-25": 60,
       "2023-01-24": 0,
@@ -2150,7 +2150,7 @@
     "uptime": "95.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "33.88%",
+    "uptimeMonth": "33.87%",
     "uptimeYear": "94.33%",
     "time": 260,
     "timeDay": 240,
@@ -2158,7 +2158,7 @@
     "timeMonth": 217,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2023-06-20": 1398,
+      "2023-06-20": 1405,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
@@ -2199,7 +2199,7 @@
     "uptime": "95.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "33.88%",
+    "uptimeMonth": "33.87%",
     "uptimeYear": "94.45%",
     "time": 223,
     "timeDay": 198,
@@ -2207,7 +2207,7 @@
     "timeMonth": 182,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-06-20": 1398,
+      "2023-06-20": 1405,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
@@ -2251,7 +2251,7 @@
     "timeDay": 6009,
     "timeWeek": 5868,
     "timeMonth": 5795,
-    "timeYear": 5809,
+    "timeYear": 5810,
     "dailyMinutesDown": {
       "2023-05-03": 766,
       "2023-05-02": 1440,
@@ -2387,7 +2387,7 @@
     "timeDay": 259,
     "timeWeek": 115,
     "timeMonth": 153,
-    "timeYear": 126,
+    "timeYear": 125,
     "dailyMinutesDown": {
       "2023-01-25": 61,
       "2022-07-02": 21,
@@ -2533,19 +2533,19 @@
     "url": "https://ciscontinuum.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/ciscontinuum.com.br.ico",
     "slug": "ciscontinuum-site",
-    "status": "down",
+    "status": "up",
     "uptime": "97.06%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "98.96%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "98.93%",
     "uptimeMonth": "89.07%",
     "uptimeYear": "98.08%",
     "time": 1005,
-    "timeDay": 2414,
-    "timeWeek": 2037,
-    "timeMonth": 1943,
+    "timeDay": 1979,
+    "timeWeek": 1968,
+    "timeMonth": 1923,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2023-06-20": 5,
+      "2023-06-20": 8,
       "2023-06-19": 32,
       "2023-06-18": 29,
       "2023-06-15": 39,
@@ -2603,7 +2603,7 @@
     "timeDay": 155,
     "timeWeek": 962,
     "timeMonth": 787,
-    "timeYear": 510,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2023-06-16": 702,
       "2023-05-31": 16,
@@ -2739,7 +2739,7 @@
     "timeDay": 112,
     "timeWeek": 295,
     "timeMonth": 303,
-    "timeYear": 349,
+    "timeYear": 346,
     "dailyMinutesDown": {}
   },
   {
@@ -2757,7 +2757,7 @@
     "timeDay": 226,
     "timeWeek": 348,
     "timeMonth": 297,
-    "timeYear": 334,
+    "timeYear": 331,
     "dailyMinutesDown": {}
   },
   {
@@ -2829,7 +2829,7 @@
     "timeDay": 218,
     "timeWeek": 460,
     "timeMonth": 449,
-    "timeYear": 467,
+    "timeYear": 468,
     "dailyMinutesDown": {}
   },
   {
@@ -2838,7 +2838,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/billet.app.gipisistemas.com.br.ico",
     "slug": "gipi-billet",
     "status": "up",
-    "uptime": "86.70%",
+    "uptime": "86.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
