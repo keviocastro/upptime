@@ -33,9 +33,6 @@ sites:
   - name: FX INTEGRATIONS (kty)
     url: https://foxter-integrations.konecty.com
   
-  - name: FX file server (kty)
-    url: https://foxter-downloads.konecty.com
-  
   - name: FX oportunity (kty)
     url: https://foxter-opportunity-api.konecty.com/liveness
   
