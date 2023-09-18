@@ -1,7 +1,7 @@
 url: https://api.avus.com.br
-status: down
-code: 404
+status: up
+code: 200
 responseTime: 186
-lastUpdated: 2023-09-17T23:04:08.586Z
+lastUpdated: 2023-09-18T20:16:17.482Z
 startTime: 2021-11-30T03:19:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
