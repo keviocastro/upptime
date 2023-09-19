@@ -30,8 +30,8 @@ sites:
   - name: FX PUSH (kty)
     url: https://foxter-push.konecty.com
   
-  - name: FX INTEGRATIONS (kty)
-    url: https://foxter-integrations.konecty.com
+ # - name: FX INTEGRATIONS (kty)
+ # url: https://foxter-integrations.konecty.com
   
   - name: FX oportunity (kty)
     url: https://foxter-opportunity-api.konecty.com/liveness
