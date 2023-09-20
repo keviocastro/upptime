@@ -1,7 +1,7 @@
 url: https://rgsp.avus.com.br
-status: up
-code: 200
-responseTime: 6642
-lastUpdated: 2023-09-19T23:04:25.319Z
+status: down
+code: 503
+responseTime: 304
+lastUpdated: 2023-09-20T16:24:20.121Z
 startTime: 2021-11-30T03:20:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
