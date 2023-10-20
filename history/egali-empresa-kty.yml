@@ -1,7 +1,7 @@
 url: https://empresa.incluipcd.com.br/admin
-status: up
-code: 200
-responseTime: 545
-lastUpdated: 2023-10-19T23:05:24.319Z
+status: down
+code: 404
+responseTime: 333
+lastUpdated: 2023-10-20T04:12:54.715Z
 startTime: 2022-01-12T15:14:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
