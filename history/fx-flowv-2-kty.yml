@@ -1,7 +1,7 @@
 url: https://foxter-flows-v2.konecty.com
-status: down
-code: 503
+status: up
+code: 200
 responseTime: 113
-lastUpdated: 2023-11-13T03:06:27.639Z
+lastUpdated: 2023-11-13T03:15:27.402Z
 startTime: 2021-11-29T20:49:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
