@@ -1,7 +1,7 @@
 url: https://api.comunidadeleo.com.br/auth/health
-status: down
-code: 504
-responseTime: 10296
-lastUpdated: 2023-11-16T23:58:12.535Z
+status: up
+code: 200
+responseTime: 264
+lastUpdated: 2023-11-17T00:13:18.463Z
 startTime: 2023-06-04T13:00:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
