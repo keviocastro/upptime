@@ -1,7 +1,7 @@
 url: https://financial.app.gipisistemas.com.br/public/check/health
-status: down
-code: 503
-responseTime: 352
-lastUpdated: 2023-11-23T22:01:07.204Z
+status: up
+code: 200
+responseTime: 327
+lastUpdated: 2023-11-23T22:09:08.582Z
 startTime: 2022-12-13T23:34:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
