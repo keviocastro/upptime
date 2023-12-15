@@ -1,7 +1,7 @@
 url: https://chat.avus.com.br
-status: up
-code: 200
-responseTime: 258
-lastUpdated: 2023-12-12T23:04:17.832Z
+status: down
+code: 502
+responseTime: 292
+lastUpdated: 2023-12-15T20:01:35.469Z
 startTime: 2021-11-30T03:19:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
