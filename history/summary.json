@@ -72,7 +72,6 @@
     "timeMonth": 280,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2023-12-15": 0,
       "2023-12-14": 8,
       "2023-08-09": 29
     }
@@ -94,7 +93,6 @@
     "timeMonth": 280,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2023-12-15": 0,
       "2023-12-14": 8,
       "2023-08-09": 29
     }
@@ -138,7 +136,7 @@
     "timeDay": 0,
     "timeWeek": 216,
     "timeMonth": 219,
-    "timeYear": 447,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2023-12-12": 751,
       "2023-11-12": 1234,
@@ -345,9 +343,9 @@
     "slug": "fx-rocket-kty",
     "status": "up",
     "uptime": "95.58%",
-    "uptimeDay": "13.11%",
-    "uptimeWeek": "72.58%",
-    "uptimeMonth": "93.69%",
+    "uptimeDay": "12.20%",
+    "uptimeWeek": "72.45%",
+    "uptimeMonth": "93.66%",
     "uptimeYear": "91.07%",
     "time": 408,
     "timeDay": 0,
@@ -355,7 +353,7 @@
     "timeMonth": 338,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2023-12-15": 172,
+      "2023-12-15": 185,
       "2023-12-14": 1102,
       "2023-12-12": 25,
       "2023-12-11": 1440,
@@ -436,7 +434,7 @@
     "timeMonth": 360,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2023-12-15": 172,
+      "2023-12-15": 185,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -2368,7 +2366,7 @@
     "timeMonth": 0,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2023-12-15": 174,
+      "2023-12-15": 188,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -2577,7 +2575,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.egalite.cl.ico",
     "slug": "elagi-cl-api-kty",
     "status": "down",
-    "uptime": "68.73%",
+    "uptime": "68.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2588,7 +2586,7 @@
     "timeMonth": 0,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2023-12-15": 174,
+      "2023-12-15": 188,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -3060,7 +3058,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ciscontinuum.com.br.ico",
     "slug": "ciscontinuum-site",
     "status": "down",
-    "uptime": "88.49%",
+    "uptime": "88.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -3071,7 +3069,7 @@
     "timeMonth": 0,
     "timeYear": 1347,
     "dailyMinutesDown": {
-      "2023-12-15": 175,
+      "2023-12-15": 188,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -3163,7 +3161,7 @@
     "timeMonth": 0,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2023-12-15": 175,
+      "2023-12-15": 188,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -3219,7 +3217,7 @@
     "timeMonth": 0,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2023-12-15": 175,
+      "2023-12-15": 188,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -3483,7 +3481,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.autoconect.com.br.ico",
     "slug": "autoconect-app",
     "status": "down",
-    "uptime": "75.03%",
+    "uptime": "75.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -3494,7 +3492,7 @@
     "timeMonth": 471,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2023-12-15": 175,
+      "2023-12-15": 188,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -3696,7 +3694,7 @@
     "timeMonth": 295,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2023-12-15": 175,
+      "2023-12-15": 189,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
