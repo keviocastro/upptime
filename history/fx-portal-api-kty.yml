@@ -1,7 +1,7 @@
 url: https://api.foxterciaimobiliaria.com.br
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-04T12:01:47.608Z
+status: up
+code: 200
+responseTime: 168
+lastUpdated: 2024-04-04T12:20:55.904Z
 startTime: 2021-11-30T02:33:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
