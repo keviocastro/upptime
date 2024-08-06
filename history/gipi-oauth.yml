@@ -1,7 +1,7 @@
 url: https://oauth.app.gipisistemas.com.br/public/check/health
-status: down
-code: 404
-responseTime: 331
-lastUpdated: 2024-08-06T06:02:59.023Z
+status: up
+code: 200
+responseTime: 157
+lastUpdated: 2024-08-06T06:12:24.114Z
 startTime: 2022-12-13T23:34:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
