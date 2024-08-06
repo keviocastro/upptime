@@ -1,7 +1,7 @@
 url: https://api.egalite.com.br
-status: up
-code: 200
-responseTime: 250
-lastUpdated: 2024-08-03T23:05:53.952Z
+status: down
+code: 525
+responseTime: 323
+lastUpdated: 2024-08-06T17:05:26.978Z
 startTime: 2022-07-27T00:18:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
