@@ -1,7 +1,7 @@
 url: https://api.autoconect.com.br
-status: up
-code: 200
-responseTime: 206
-lastUpdated: 2024-10-24T13:40:21.340Z
+status: down
+code: 503
+responseTime: 502
+lastUpdated: 2024-10-25T01:01:22.608Z
 startTime: 2022-12-13T23:34:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
