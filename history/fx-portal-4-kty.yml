@@ -1,7 +1,7 @@
 url: https://foxterciaimobiliaria.com.br
-status: up
-code: 200
+status: down
+code: 500
 responseTime: 18
-lastUpdated: 2025-01-23T10:57:36.013Z
+lastUpdated: 2025-01-23T12:48:27.496Z
 startTime: 2021-11-30T02:33:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
