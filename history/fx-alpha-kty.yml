@@ -1,7 +1,7 @@
 url: https://alpha.foxterciaimobiliaria.com.br
-status: up
-code: 200
-responseTime: 518
-lastUpdated: 2025-02-12T23:05:59.225Z
+status: down
+code: 502
+responseTime: 121
+lastUpdated: 2025-02-19T13:33:44.796Z
 startTime: 2021-11-29T20:49:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
